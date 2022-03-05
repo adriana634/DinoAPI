@@ -1634,9 +1634,11 @@ namespace DinoAPI
                 "Zuul"
             };
 
-            endpoints.MapGet("/dinosaurs", () =>
+            endpoints.MapGet("/dinosaurs/{filter:alpha}", (string filter) =>
             {
-                IEnumerable<Dinosaur> dinosaurs = dinosaurs_genera.Select(dinosaur_genera =>
+                IEnumerable<Dinosaur> dinosaurs = dinosaurs_genera
+                    .Where(dinosaur_genera => dinosaur_genera.ToLower().StartsWith(filter.ToLower()))
+                    .Select(dinosaur_genera =>
                    new Dinosaur
                    (
                        Genera: dinosaur_genera
