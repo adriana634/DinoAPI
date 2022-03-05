@@ -24,6 +24,7 @@
     <Compile Include="DinoWikipedia.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="List_of_dinosaur_genera.output" />
     <Content Include="List_of_dinosaur_genera.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
