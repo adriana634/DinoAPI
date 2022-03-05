@@ -1,0 +1,2046 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.24</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of dinosaur genera</title>
+    <ns>0</ns>
+    <id>1990134</id>
+    <revision>
+      <id>1075223191</id>
+      <parentid>1075113900</parentid>
+      <timestamp>2022-03-04T15:56:16Z</timestamp>
+      <contributor>
+        <username>Qwerfjkl (bot)</username>
+        <id>42522270</id>
+      </contributor>
+      <minor/>
+      <comment>Changing short description "Wikipedia list article" to "None" per [[WP:SDNONE]] (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100810" xml:space="preserve">{{Short description|None}}
+[[File:Field dinos 2.jpg|thumb|260px|Mounted skeletons of ''[[Tyrannosaurus]]'' (left) and ''[[Apatosaurus]]'' (right) at the [[American Museum of Natural History|AMNH]]]]
+&lt;!-- See [[Wikipedia talk:Featured lists]] for an explanation of this and other inclusion tags below --&gt;
+[[Dinosaur]]s are&lt;!-- Please use "are", as the scientific consensus is that birds are modern feathered dinosaurs. --&gt; a diverse group of [[reptile]]s of the [[clade]] Dinosauria. They first appeared during the [[Triassic]] [[Geological period|period]], between 243 and 233.23&amp;nbsp;[[annum|million years ago]], although the exact origin and timing of the [[evolution of dinosaurs]] is the subject of active research. They became the dominant terrestrial [[vertebrate]]s after the [[Triassic–Jurassic extinction event]] 201.3&amp;nbsp;million years ago; their dominance continued throughout the [[Jurassic]] and [[Cretaceous]] periods. The [[fossil]] record demonstrates that [[bird]]s are modern [[feathered dinosaur]]s, having [[Evolution of birds|evolved]] from earlier [[Theropoda|theropods]] during the [[Late Jurassic]] [[Epoch (geology)|epoch]]. Birds were therefore the only dinosaur lineage to survive the [[Cretaceous–Paleogene extinction event]] approximately 66&amp;nbsp;million years ago. Dinosaurs can be divided into avian dinosaurs (that is, birds) and non-avian dinosaurs, which are all dinosaurs other than birds.
+
+This list of dinosaurs is a comprehensive listing of all [[genera]] that have ever been considered to be non-avian dinosaurs, but also includes some dinosaurs of disputed status (avian? or non-avian?, where "avian" refers to the clade [[Avialae]]), as well as purely vernacular terms.
+
+The list includes all commonly accepted genera, but also genera that are now considered invalid, doubtful (''[[nomen dubium]]''), or were not formally published (''[[nomen nudum]]''), as well as [[synonym (taxonomy)|junior synonyms]] of more established names, and genera that are no longer considered dinosaurs. Many listed names have been reclassified as everything from true [[bird]]s to [[crocodilia]]ns to [[petrified wood]]. The list contains 1711 names, of which approximately 1276 are considered either valid dinosaur genera or ''[[nomina dubia]]''.&lt;!--"Valid dinosaur genera or nomina dubia" refers to entries on this list that link directly to a namesake page whose taxoboxes are set to within Dinosauria, but not Avialae--&gt;
+
+== Scope and terminology ==
+There is no official, canonical list of all non-avian dinosaur genera. The closest is the ''Dinosaur Genera List'', compiled by [[biological nomenclature]] expert George Olshevsky, which was first published online in 1995 and was regularly updated until June 2021.&lt;ref name="Olshevsky"&gt;Olshevsky, G. (1995–2021). [http://www.polychora.com/dinolist.html Dinosaur Genera List]. Retrieved June 7, 2021.&lt;/ref&gt;&lt;ref name="Montague2006"&gt;{{Cite journal| pages = 243–257| last = Montague| first = Jeremy R.| title = Estimates of Body Size and Geological Time of Origin for 612 Dinosaur Genera (Saurischia, Ornithischia)| url=https://www.researchgate.net/publication/259664943| journal = Florida Scientist| date = 2006}}&lt;/ref&gt; The most authoritative general source in the field is the second (2004) edition of ''The Dinosauria''. The vast majority of names listed below are sourced to Olshevsky's list, and all subjective determinations (such as junior synonymy or non-dinosaurian status) are based on ''The Dinosauria'', except where they conflict with primary literature. These exceptions are noted.
+
+Naming conventions and terminology follow the [[International Code of Zoological Nomenclature]]. Technical terms used include:&lt;ref name="Olshevsky" /&gt;
+* '''[[Synonym (taxonomy)|Junior synonym]]''': A name which describes the same taxon as a previously published name. If two or more genera are formally designated and the [[biological type|type specimens]] are later assigned to the same genus, the first to be published (in chronological order) is the senior synonym, and all other instances are junior synonyms. Senior synonyms are generally used, except by special decision of the ICZN (see ''[[Tyrannosaurus]]''), but junior synonyms cannot be used again for a different genus, even if deprecated. Junior synonymy is often subjective, unless the genera described were both based on the same type specimen.
+* '''''[[Nomen nudum]]''''' (Latin for "naked name"): A name that has appeared in print but has not yet been formally published by the standards of the ICZN. ''Nomina nuda'' (the plural form) are invalid, and are therefore not italicized as a proper generic name would be. If the name is later formally published, that name is no longer a ''nomen nudum'' and will be italicized on this list. Often, the formally published name will differ from any ''nomina nuda'' that describe the same specimen.
+* '''''[[Nomen oblitum]]''''' (Latin for "forgotten name"): A name that has not been used in the scientific community for more than fifty years after its original proposal.
+* '''''Nomen manuscriptum''''' (Latin for "manuscript name"): A name that appears in manuscript of a formal publication that has no scientific backing.
+* '''Preoccupied name''': A name that is formally published, but which has already been used for another taxon. This second use is invalid (as are all subsequent uses) and the name must be replaced. Preoccupied names are not valid generic names.
+* '''''[[Nomen dubium]]''''' (Latin for "dubious name"): A name describing a fossil with no unique diagnostic features. As this can be an extremely subjective and controversial designation (see ''[[Hadrosaurus]]''), no genera should be marked as such on this list.
+
+==A==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+[[File:Allosaurus SDNHM.jpg|thumb|Replica of an ''[[Allosaurus]]'' skeleton.]]
+* ''[[Aachenosaurus]]'' – subsequently found to be a piece of [[petrified wood]]
+* ''[[Aardonyx]]''
+* "[[Abdallahsaurus]]" – ''nomen nudum'', synonym of ''[[Giraffatitan]]''
+* ''[[Abdarainurus]]''
+* ''[[Abditosaurus]]''&lt;ref&gt;{{Cite journal|last1=Vila|first1=Bernat|last2=Sellés|first2=Albert|last3=Moreno-Azanza|first3=Miguel|last4=Razzolini|first4=Novella L.|last5=Gil-Delgado|first5=Alejandro|last6=Canudo|first6=José Ignacio|last7=Galobart|first7=Àngel|date=2022-02-07|title=A titanosaurian sauropod with Gondwanan affinities in the latest Cretaceous of Europe|url=https://www.nature.com/articles/s41559-021-01651-5|journal=Nature Ecology &amp; Evolution|language=en|pages=1–9|doi=10.1038/s41559-021-01651-5|pmid=35132183|s2cid=246650381|issn=2397-334X}}&lt;/ref&gt;
+* ''[[Abelisaurus]]''
+* ''[[Abrictosaurus]]''
+* ''[[Abrosaurus]]''
+* ''[[Abydosaurus]]''
+* ''[[Acantholipan]]''
+* ''[[Acanthopholis]]''
+* ''[[Achelousaurus]]''
+* ''[[Acheroraptor]]''
+* ''[[Achillesaurus]]'' 
+* ''[[Achillobator]]''
+* ''[[Acristavus]]''
+* ''[[Acrocanthosaurus]]''
+* ''[[Acrotholus]]''
+* ''[[Actiosaurus]]'' – subsequently found to be a [[choristoderan]]
+* ''[[Adamantisaurus]]''
+* ''[[Adasaurus]]''
+* ''[[Adelolophus]]''
+* ''[[Adeopapposaurus]]''
+* ''[[Adratiklit]]''
+* ''[[Adynomosaurus]]''
+* ''[[Aegyptosaurus]]''
+* ''[[Aeolosaurus]]''
+* ''[[Aepisaurus]]''
+* ''[[Aepyornithomimus]]''
+* ''[[Aerosteon]]''
+* ''[[Aetonyx]]'' – junior synonym of ''[[Massospondylus]]''
+* ''[[Afromimus]]''
+* ''[[Afrovenator]]''
+* ''[[Agathaumas]]'' – possible synonym of ''[[Triceratops]]''
+* ''[[Aggiosaurus]]'' – subsequently found to be a [[metriorhynchid]] [[crocodilia]]n
+* ''[[Agilisaurus]]''
+* ''[[Agnosphitys]]'' – possibly non-dinosaurian
+* ''[[Agrosaurus]]'' – probably a junior synonym of ''[[Thecodontosaurus]]''
+* ''[[Agujaceratops]]''
+* ''[[Agustinia]]''
+* ''[[Ahshislepelta]]''
+* "[[Airakoraptor]]" – ''nomen nudum''; ''[[Kuru kulla|Kuru]]''
+* ''[[Ajancingenia]]'' – [[synonym (taxonomy)|synonym]] of ''[[Heyuannia]]''
+* ''[[Ajkaceratops]]''
+* ''[[Ajnabia]]''
+* ''[[Akainacephalus]]''
+* ''[[Alamosaurus]]''
+* ''[[Alaskacephale]]''
+* ''[[Albalophosaurus]]''
+* ''[[Albertaceratops]]''
+* ''[[Albertadromeus]]''
+* ''[[Albertavenator]]''
+* ''[[Albertonykus]]''
+* ''[[Albertosaurus]]''
+* ''[[Albinykus]]''
+[[File:Amargasaurus NT small.jpg|thumb|[[Paleoart|Artist's reconstruction]] of ''[[Amargasaurus]]''.|alt=]]
+* ''[[Albisaurus]]'' – subsequently found to be a non-dinosaurian [[reptile]]
+* ''[[Alcovasaurus]]''
+* ''[[Alectrosaurus]]''
+* ''[[Aletopelta]]''
+* ''[[Algoasaurus]]''
+* ''[[Alioramus]]''
+* ''[[Aliwalia]]'' – junior synonym of ''[[Eucnemesaurus]]''
+* ''[[Allosaurus]]''
+* ''[[Almas ukhaa|Almas]]''
+* ''[[Alnashetri]]''
+* ''[[Alocodon]]''
+* ''[[Altirhinus]]''
+* ''[[Altispinax]]''
+* ''[[Alvarezsaurus]]''
+* ''[[Alwalkeria]]''
+* ''[[Alxasaurus]]''
+* ''[[Amanzia]]''
+* ''[[Amargasaurus]]''
+* "[[Amargastegos]]" – ''nomen nudum''
+* ''[[Amargatitanis]]''
+* ''[[Amazonsaurus]]''
+* ''[[Ambopteryx]]'' – possibly a bird
+* ''[[Ammosaurus]]'' – junior synonym of ''[[Anchisaurus]]''
+* ''[[Ampelosaurus]]''
+* ''[[Amphicoelias]]''
+* "[[Amphicoelicaudia]]" – ''nomen nudum''; synonym of ''[[Huabeisaurus]]''
+* "''[[Amphisaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Anchisaurus]]''
+* ''[[Amtocephale]]''
+* ''[[Amtosaurus]]'' – possibly a junior synonym of ''[[Talarurus]]''
+* ''[[Amurosaurus]]''
+* ''[[Amygdalodon]]''
+* ''[[Anabisetia]]''
+* ''[[Analong]]''
+* ''[[Anasazisaurus]]''
+* ''[[Anatosaurus]]'' – junior synonym of ''[[Edmontosaurus]]''
+* ''[[Anatotitan]]'' – junior synonym of ''[[Edmontosaurus]]''
+* ''[[Anchiceratops]]''
+* ''[[Anchiornis]]'' – possibly a [[bird]]
+* ''[[Anchisaurus]]''
+* ''[[Andesaurus]]''
+* "[[Andhrasaurus]]" – ''nomen nudum''
+* ''[[Angaturama]]'' – possible junior synonym of ''[[Irritator]]''
+* "[[Angloposeidon]]" – ''nomen nudum''
+* ''[[Angolatitan]]''
+* ''[[Angulomastacator]]''
+* ''[[Anhuilong]]''
+* ''[[Aniksosaurus]]''
+* ''[[Animantarx]]''
+* ''[[Ankistrodon]]'' – a [[proterosuchid]] [[archosauriform]]
+* ''[[Ankylosaurus]]''
+[[File:Anzu wyliei.jpg|thumb|Artist's reconstruction of ''[[Anzu (dinosaur)|Anzu]]''.]]
+* ''[[Anodontosaurus]]''
+* ''[[Anomalipes]]''
+* ''[[Anoplosaurus]]''
+* ''[[Anserimimus]]''
+* ''[[Antarctopelta]]''
+* ''[[Antarctosaurus]]''
+* ''[[Antetonitrus]]''
+* ''[[Anthodon (reptile)|Anthodon]]'' – a [[pareiasaur]]
+* ''[[Antrodemus]]'' – possibly a synonym of ''[[Allosaurus]]''
+* ''[[Anzu wyliei|Anzu]]''
+* ''[[Aoniraptor]]''
+* ''[[Aorun]]''
+* ''[[Apatodon]]'' – possibly a junior synonym of ''[[Allosaurus]]''
+* ''[[Apatoraptor]]''
+* ''[[Apatosaurus]]''
+* ''[[Appalachiosaurus]]''
+* ''[[Aquilarhinus]]''
+* ''[[Aquilops]]''
+* ''[[Arackar]]''
+* ''[[Aragosaurus]]''
+* ''[[Aralosaurus]]''
+* ''[[Aratasaurus]]''
+* "[[Araucanoraptor]]" – ''nomen nudum''; ''[[Neuquenraptor]]''
+* ''[[Archaeoceratops]]''
+* ''[[Archaeodontosaurus]]''
+* ''[[Archaeopteryx]]'' – possibly a [[bird]]
+* ''[[Archaeoraptor]]'' – a chimaera of the [[bird]] ''[[Yanornis]]'' and the [[dromaeosaur]] ''[[Microraptor]]''
+[[File:Archaeoceratops BW.jpg|thumb|Artist's restoration of ''[[Archaeoceratops]]''.]]
+* ''[[Archaeornis]]'' – junior synonym of ''[[Archaeopteryx]]''
+* ''[[Archaeornithoides]]''
+* ''[[Archaeornithomimus]]''
+* ''[[Arcovenator]]''
+* ''[[Arctosaurus]]'' – subsequently found to be a non-dinosaurian [[reptile]]
+* ''[[Arcusaurus]]''
+* ''[[Arenysaurus]]''
+* ''[[Argentinosaurus]]''
+* ''[[Argyrosaurus]]''
+* ''[[Aristosaurus]]'' – junior synonym of ''[[Massospondylus]]''
+* ''[[Aristosuchus]]''
+* ''[[Arizonasaurus]]'' – subsequently found to be a [[rauisuchian]]
+* ''[[Arkansaurus]]'' 
+* ''[[Arkharavia]]''
+* ''[[Arrhinoceratops]]''
+* ''[[Arrudatitan]]''
+* ''[[Arstanosaurus]]''
+* ''[[Asfaltovenator]]''
+* ''[[Asiaceratops]]''
+* ''[[Asiamericana]]'' – a [[fish]]
+* ''[[Asiatosaurus]]''
+* ''[[Asilisaurus]]'' – possibly non-dinosaurian
+* ''[[Astrodon]]''
+[[File:Austroraptor Restoration.png|thumb|Artist's restoration of ''[[Austroraptor]]''.]]
+* ''[[Astrodonius]]'' – junior synonym of ''[[Astrodon]]''
+* ''[[Astrodontaurus]]'' – junior synonym of ''[[Astrodon]]''
+* ''[[Astrophocaudia]]''
+* ''[[Asylosaurus]]''
+* ''[[Atacamatitan]]''
+* ''[[Atlantosaurus]]''
+* ''[[Atlasaurus]]''
+* ''[[Atlascopcosaurus]]''
+* ''[[Atrociraptor]]''
+* ''[[Atsinganosaurus]]''
+* ''[[Aublysodon]]''
+* ''[[Aucasaurus]]''
+* "''[[Augustia]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Agustinia]]''
+* ''[[Augustynolophus]]''
+* ''[[Auroraceratops]]''
+* ''[[Aurornis]]'' – possibly a [[bird]]
+* ''[[Australodocus]]''
+* ''[[Australotitan]]''
+* ''[[Australovenator]]''
+* ''[[Austrocheirus]]''
+* ''[[Austroposeidon]]''
+* ''[[Austroraptor]]''
+* ''[[Austrosaurus]]''
+* ''[[Avaceratops]]''
+* "''[[Avalonia (dinosaur)|Avalonia]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Avalonianus]]''
+* ''[[Avalonianus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Aviatyrannis]]''
+* ''[[Avimimus]]''
+* ''[[Avipes]]'' – probably a non-dinosaurian [[dinosauromorph]]
+* ''[[Avisaurus]]'' – subsequently found to be an [[enantiornithine]] [[bird]]
+* ''[[Azendohsaurus]]'' – subsequently found to be a non-dinosaurian [[archosauromorph]]
+
+==B==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Baalsaurus]]''
+* ''[[Bactrosaurus]]''
+* ''[[Bagaceratops]]''
+* ''[[Bagaraatan]]''
+* ''[[Bagualia]]''
+* ''[[Bagualosaurus]]''
+* ''[[Bahariasaurus]]''
+* ''[[Bainoceratops]]''
+* ''[[Bajadasaurus]]''
+* "[[Bakesaurus]]" – ''nomen nudum''; ''[[Bactrosaurus]]''
+* ''[[Balaur bondoc|Balaur]]'' – possibly a [[bird]]
+* "[[Balochisaurus]]" – ''nomen nudum''
+* ''[[Bambiraptor]]''
+* ''[[Banji]]''
+* ''[[Bannykus]]''
+[[File:Baryonyx walkeri mount NMNS.jpg|thumb|Reconstructed skeletal mount of ''[[Baryonyx]]'' at the [[National Museum of Nature and Science]], Tokyo.]]
+* ''[[Baotianmansaurus]]''
+* ''[[Barapasaurus]]''
+* ''[[Barilium]]''
+* ''[[Barosaurus]]''
+* ''[[Barrosasaurus]]''
+* ''[[Barsboldia]]''
+* ''[[Baryonyx]]''
+* ''[[Bashanosaurus]]''&lt;ref&gt;{{Cite journal |last1=Dai |first1=H. |last2=Li |first2=N. |last3=Maidment |first3=S. C. R. |last4=Wei |first4=G. |last5=Zhou |first5=Y. X. |last6=Hu |first6=X. F. |last7=Ma |first7=Q. Y. |last8=Wang |first8=X. Q. |last9=Hu |first9=H. Q. |last10=Peng |first10=G. Z. |year=2022 |title=New Stegosaurs from the Middle Jurassic Lower Member of the Shaximiao Formation of Chongqing, China |journal=Journal of Vertebrate Paleontology |volume=in press |pages=e1995737  |doi=10.1080/02724634.2021.1995737}}&lt;/ref&gt;
+* "[[Bashunosaurus]]" – ''nomen nudum'', ''[[Datousaurus]]''
+* ''[[Basutodon]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Bathygnathus]]'' – a [[pelycosaur]], ''[[Dimetrodon]]''
+* ''[[Batyrosaurus]]''
+* ''[[Baurutitan]]''
+* ''[[Bayannurosaurus]]''
+* "[[Bayosaurus]]" – ''nomen nudum''
+* ''[[Becklespinax]]'' – junior synonym of ''[[Altispinax]]''
+* "[[Beelemodon]]" – ''nomen nudum''
+* ''[[Beg tse|Beg]]''
+* ''[[Beibeilong]]'' 
+* ''[[Beipiaognathus]]'' – [[Chimera (paleontology)|chimera]] of several unnamed dinosaurs
+* ''[[Beipiaosaurus]]''
+* ''[[Beishanlong]]''
+* ''[[Bellusaurus]]''
+* ''[[Belodon]]'' – subsequently found to be a [[phytosaur]]
+* ''[[Berberosaurus]]''
+* ''[[Berthasaura]]''&lt;ref&gt;{{cite journal | vauthors = de Souza GA, Soares MB, Weinschütz LC, Wilner E, Lopes RT, de Araújo OM, Kellner AW | title = The first edentulous ceratosaur from South America | journal = Scientific Reports | volume = 11 | issue = 1 | pages = Article number 22281 | year = 2021 | doi = 10.1038/s41598-021-01312-4 | pmid = 34795306 | pmc = 8602317 | bibcode = 2021NatSR..1122281D | doi-access = free }}&lt;/ref&gt;
+* ''[[Betasuchus]]''
+* ''[[Bicentenaria]]''
+* ''[[Bienosaurus]]''
+* "[[Bihariosaurus]]" – ''nomen nudum''
+* "[[Bilbeyhallorum]]" – ''nomen nudum''; ''[[Cedarpelta]]''
+* ''[[Bissektipelta]]''
+* ''[[Bistahieversor]]''
+* "[[Blancocerosaurus]]" – ''nomen nudum'', synonym of ''[[Giraffatitan]]''
+* ''[[Blasisaurus]]''
+* ''[[Blikanasaurus]]''
+* ''[[Bolong]]''
+* ''[[Bonapartenykus]]''
+* ''[[Bonapartesaurus]]''
+* ''[[Bonatitan]]''
+* ''[[Bonitasaura]]''
+* ''[[Borealopelta]]''
+* ''[[Borealosaurus]]''
+* ''[[Boreonykus]]''
+* ''[[Borogovia]]''
+* ''[[Bothriospondylus]]''
+* ''[[Brachiosaurus]]''
+* ''[[Brachyceratops]]''
+* ''[[Brachylophosaurus]]''
+* ''[[Brachypodosaurus]]''
+* ''[[Brachyrophus]]'' – junior synonym of ''[[Camptosaurus]]''
+[[File:Borealopelta NT.jpg|thumb|Artist's restoration of ''[[Borealopelta]]''.]]
+* ''[[Brachytaenius]]'' – subsequently found to be a [[metriorhynchid]]; junior objective synonym of ''[[Dakosaurus]]'' or ''[[Geosaurus]]''
+* ''[[Brachytrachelopan]]''
+* ''[[Bradycneme]]''
+* ''[[Brasileosaurus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Brasilotitan]]''
+* ''[[Bravasaurus]]''
+* ''[[Bravoceratops]]''
+* ''[[Breviceratops]]''
+* ''[[Brighstoneus]]''&lt;ref&gt;{{Cite journal|last1=Lockwood|first1=Jeremy A. F.|last2=Martill|first2=David M.|last3=Maidment|first3=Susannah C. R.|date=2021-11-10|title=A new hadrosauriform dinosaur from the Wessex Formation, Wealden Group (Early Cretaceous), of the Isle of Wight, southern England|url=https://doi.org/10.1080/14772019.2021.1978005|journal=Journal of Systematic Palaeontology|volume=19|issue=12|pages=847–888|doi=10.1080/14772019.2021.1978005|s2cid=244067410|issn=1477-2019}}&lt;/ref&gt;
+* ''[[Brohisaurus]]''
+* ''[[Brontomerus]]''
+* "[[Brontoraptor]]" – ''nomen nudum'', synonym of ''[[Torvosaurus]]''
+* ''[[Brontosaurus]]''
+* ''[[Bruhathkayosaurus]]''
+* ''[[Bugenasaura]]'' – junior synonym of ''[[Thescelosaurus]]''
+* ''[[Buitreraptor]]''
+* ''[[Burianosaurus]]''
+* ''[[Buriolestes]]''
+* "[[Byranjaffia]]" – ''nomen nudum''; ''[[Byronosaurus]]''
+* ''[[Byronosaurus]]''
+
+==C==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+[[File:Centrosaurus.JPG|thumb|''[[Centrosaurus]]'' skull.]]
+* ''[[Caenagnathasia]]''
+* ''[[Caenagnathus]]''
+* ''[[Caihong]]'' – possibly a bird
+* ''[[Calamosaurus]]''
+* "''[[Calamosaurus|Calamospondylus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Calamosaurus]]''
+* ''[[Calamospondylus]]''
+* ''[[Callovosaurus]]''
+* ''[[Camarasaurus]]''
+* ''[[Camarillasaurus]]''
+* ''[[Camelotia]]''
+* ''[[Camposaurus]]''
+* "''[[Camptonotus (dinosaur)|Camptonotus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Camptosaurus]]''
+* ''[[Camptosaurus]]''
+* "''[[Campylodon]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Campylodoniscus]]''
+* ''[[Campylodoniscus]]''
+* ''[[Canardia]]''
+* "[[Capitalsaurus]]" – ''nomen nudum''
+* ''[[Carcharodontosaurus]]''
+* ''[[Cardiodon]]''
+* ''[[Carnotaurus]]''
+* ''[[Caseosaurus]]'' – possibly non-dinosaurian
+* ''[[Cathartesaura]]''
+* ''[[Cathetosaurus]]'' — possibly a species of ''[[Camarasaurus]]''
+* ''[[Caudipteryx]]''
+* ''[[Caudocoelus]]'' – junior synonym of ''[[Teinurosaurus]]''
+* ''[[Caulodon]]'' – junior synonym of ''[[Camarasaurus]]''
+* ''[[Cedarosaurus]]''
+* ''[[Cedarpelta]]''
+* ''[[Cedrorestes]]''
+* ''[[Centemodon]]'' – subsequently found to be a [[phytosaur]]
+* ''[[Centrosaurus]]''
+* ''[[Cerasinops]]''
+* ''[[Ceratonykus]]''
+* ''[[Ceratops]]''
+* ''[[Ceratosaurus]]''
+* ''[[Ceratosuchops]]''&lt;ref name="Ceratosuchops"&gt;{{cite journal|last1=Barker|first1=C.T.|last2=Hone|first2=D.|last3=Naish|first3=D.|last4=Cau|first4=A.|last5=Lockwood|first5=J.|last6=Foster|first6=B.|last7=Clarkin|first7=C.|last8=Schneider|first8=P.|last9=Gostling|first9=N.|year=2021|title=New spinosaurids from the Wessex Formation (Early Cretaceous, UK) and the European origins of Spinosauridae|journal=Scientific Reports|volume=11|issue=1|page=19340|doi=10.1038/s41598-021-97870-8|pmc=8481559 |pmid=34588472|bibcode=2021NatSR..1119340B}}&lt;/ref&gt;
+* ''[[Cerebavis]]''&lt;ref&gt;{{cite journal| vauthors = Cau A, Madzia D |year=2021 |title=The phylogenetic affinities and morphological peculiarities of the bird-like dinosaur ''Borogovia gracilicrus'' from the Upper Cretaceous of Mongolia |journal=PeerJ |volume=9 |pages=e12640 |doi=10.7717/peerj.12640 |pmid=34963824 |pmc=8656384 |doi-access=free }}&lt;/ref&gt; — possibly a [[bird]]
+* ''[[Cetiosauriscus]]''
+* ''[[Cetiosaurus]]''
+* ''[[Changchunsaurus]]''
+* "[[Changdusaurus]]" – ''nomen nudum''
+* ''[[Changmiania]]''
+* ''[[Changyuraptor]]''
+* ''[[Chaoyangsaurus]]''
+* ''[[Charonosaurus]]''
+* ''[[Chasmosaurus]]''
+* ''[[Chassternbergia]]'' – junior synonym of ''[[Edmontonia]]''
+* ''[[Chebsaurus]]''
+* ''[[Chenanisaurus]]''
+* ''[[Cheneosaurus]]'' – junior synonym of ''[[Hypacrosaurus]]''
+[[File:Ceratosaurus nasicornis DB.jpg|thumb|Artist's restoration of ''[[Ceratosaurus]]''.]]
+* ''[[Chialingosaurus]]''
+* ''[[Chiayusaurus]]''
+* ''[[Chienkosaurus]]'' – possible junior synonym of ''[[Szechuanosaurus]]''
+* "[[Chihuahuasaurus]]" – ''nomen nudum''; ''[[Sonorasaurus]]''
+* ''[[Chilantaisaurus]]''
+* ''[[Chilesaurus]]''
+* ''[[Chindesaurus]]'' – possibly non-dinosaurian
+* ''[[Chingkankousaurus]]''
+* ''[[Chinshakiangosaurus]]''
+* ''[[Chirostenotes]]''
+* ''[[Choconsaurus]]''
+* ''[[Chondrosteosaurus]]''
+* ''[[Choyrodon]]''
+* ''[[Chromogisaurus]]''
+* ''[[Chuandongocoelurus]]''
+* ''[[Chuanjiesaurus]]''
+* ''[[Chuanqilong]]''
+* ''[[Chubutisaurus]]''
+* ''[[Chungkingosaurus]]''
+* ''[[Chuxiongosaurus]]''
+* "[[Cinizasaurus]]" – ''nomen nudum''
+* ''[[Cionodon]]''
+* ''[[Citipati]]''
+* ''[[Citipes]]''
+* ''[[Cladeiodon]]'' – subsequently found to be a non-dinosaurian [[rauisuchia]]n; synonym of ''[[Teratosaurus]]''
+* ''[[Claorhynchus]]'' – possibly ''[[Triceratops]]''
+* ''[[Claosaurus]]''
+* ''[[Clarencea]]'' – subsequently found to be a [[sphenosuchia]]n; synonym of ''[[Sphenosuchus]]''
+* ''[[Clasmodosaurus]]''
+* ''[[Clepsysaurus]]'' – subsequently found to be a [[phytosaur]], possibly ''[[Palaeosaurus]]''
+* ''[[Coahuilaceratops]]''
+* ''[[Coelophysis]]''
+* "''[[Coelosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]], has not yet been renamed
+* ''[[Coeluroides]]''
+* ''[[Coelurosauravus]]'' – subsequently found to be a primitive [[diapsid]]
+* ''[[Coelurus]]''
+* ''[[Colepiocephale]]''
+* "''[[Coloradia (dinosaur)|Coloradia]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Coloradisaurus]]''
+* ''[[Coloradisaurus]]''
+* "[[Colossosaurus]]" – ''nomen nudum''; ''[[Pelorosaurus]]''
+* ''[[Comahuesaurus]]''
+* "[[Comanchesaurus]]" – ''nomen nudum''
+* ''[[Compsognathus]]''
+[[File:Coelophysis bauri mount.jpg|thumb|''[[Coelophysis]]'' mounted skeleton at the [[Cleveland Museum of Natural History]].]]
+* ''[[Compsosuchus]]''
+* ''[[Concavenator]]''
+* ''[[Conchoraptor]]''
+* ''[[Condorraptor]]''
+* ''[[Convolosaurus]]''
+* ''[[Coronosaurus]]''
+* ''[[Corythoraptor]]''
+* ''[[Corythosaurus]]''
+* ''[[Craspedodon]]''
+* ''[[Crataeomus]]'' – junior synonym of ''[[Struthiosaurus]]''
+* ''[[Craterosaurus]]''
+* ''[[Creosaurus]]'' – junior synonym of ''[[Allosaurus]]''
+* ''[[Crichtonpelta]]''
+* ''[[Crichtonsaurus]]''
+* ''[[Cristatusaurus]]''
+* ''[[Crittendenceratops]]''
+* ''[[Crosbysaurus]]'' – subsequently found to be a non-dinosaurian [[archosauriform]]
+* ''[[Cruxicheiros]]''
+* ''[[Cryolophosaurus]]''
+* ''[[Cryptodraco]]'' – junior synonym (unneeded replacement name) of ''[[Cryptosaurus]]''
+* "[[Cryptoraptor]]" – ''nomen nudum''
+* ''[[Cryptosaurus]]''
+* ''[[Cryptovolans]]'' – junior synonym of ''[[Microraptor]]''
+* ''[[Cumnoria]]''
+
+==D==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+[[File:Hypothetical Deinocheirus.jpg|thumb|Artist's restoration of ''[[Deinocheirus]]''.]]
+* ''[[Daanosaurus]]''
+* ''[[Dacentrurus]]''
+* "[[Dachongosaurus]]" – ''nomen nudum''
+* ''[[Daemonosaurus]]'' – possibly non-dinosaurian
+* ''[[Dahalokely]]''
+* ''[[Dakosaurus]]'' – subsequently found to be a [[metriorhynchid]] [[crocodilia]]n
+* ''[[Dakotadon]]''
+* ''[[Dakotaraptor]]''
+* ''[[Daliansaurus]]''
+* "[[Damalasaurus]]" – ''nomen nudum''
+* ''[[Dandakosaurus]]''
+* ''[[Danubiosaurus]]'' – junior synonym of ''[[Struthiosaurus]]''
+* "[[Daptosaurus]]" – ''nomen nudum''; early manuscript name for ''[[Deinonychus]]''
+* ''[[Darwinsaurus]]'' – junior synonym of ''[[Hypselospinus]]'' or ''[[Mantellisaurus]]''
+* ''[[Dashanpusaurus]]''
+* ''[[Daspletosaurus]]''
+* ''[[Dasygnathoides]]'' – subsequently found to be a non-dinosaurian [[archosaur]]; possible junior synonym of ''[[Ornithosuchus]]''
+* "''[[Dasygnathoides|Dasygnathus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Ornithosuchus|Dasygnathoides]]''
+* ''[[Datanglong]]''
+* ''[[Datonglong]]''
+* ''[[Datousaurus]]''
+* ''[[Daurosaurus]]'' – synonym of ''[[Kulindadromeus]]''
+* ''[[Daxiatitan]]''
+* ''[[Deinocheirus]]''
+* ''[[Deinodon]]'' – possibly ''[[Gorgosaurus]]''
+* ''[[Deinonychus]]''
+* ''[[Delapparentia]]'' – junior synonym of ''[[Iguanodon]]''
+* ''[[Deltadromeus]]''
+* ''[[Demandasaurus]]''
+* ''[[Denversaurus]]''
+* ''[[Deuterosaurus]]'' – subsequently found to be a [[therapsid]]
+* ''[[Diabloceratops]]''
+*''[[Diamantinasaurus]]''
+* ''[[Dianchungosaurus]]'' – subsequently found to be a [[crocodilia]]n
+* "''[[Nedoceratops|Diceratops]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Nedoceratops]]''
+* ''[[Nedoceratops|Diceratus]]'' – junior synonym of ''[[Nedoceratops]]''
+* ''[[Diclonius]]''
+* ''[[Dicraeosaurus]]''
+* ''[[Didanodon]]'' – synonym of ''[[Lambeosaurus]]''; possibly a ''nomen nudum''
+* ''[[Dilong paradoxus|Dilong]]''
+* ''[[Dilophosaurus]]''
+* ''[[Diluvicursor]]''
+* ''[[Dimodosaurus]]'' – junior synonym of ''[[Plateosaurus]]''
+* ''[[Dineobellator]]''
+* ''[[Dinheirosaurus]]'' – probable junior synonym of ''[[Supersaurus]]''
+* ''[[Dinodocus]]''
+* "''[[Plateosaurus|Dinosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name for a junior synonym of ''[[Brithopus]]''; now a junior synonym of ''[[Plateosaurus]]''
+[[File:Diamantinasaurus.png|thumb|Artist's restoration of ''[[Diamantinasaurus]]''.]]
+* ''[[Dinotyrannus]]'' – junior synonym ''[[Tyrannosaurus]]'' or some other tyrannosaurid
+* ''[[Diodorus (genus)|Diodorus]]'' – possibly non-dinosaurian
+* ''[[Diplodocus]]''
+* ''[[Diplotomodon]]''
+* ''[[Diracodon]]'' – junior synonym of ''[[Stegosaurus]]''
+* ''[[Dolichosuchus]]''
+* ''[[Dollodon]]'' – junior synonym of ''[[Mantellisaurus]]''
+* "[[Domeykosaurus]]" – ''nomen nudum'', synonym of ''[[Arackar]]''
+* ''[[Dongbeititan]]''
+* ''[[Dongyangopelta]]''
+* ''[[Dongyangosaurus]]''
+* ''[[Doratodon]]'' – subsequently found to be a [[crocodilia]]n
+* ''[[Doryphorosaurus]]'' – junior synonym (unneeded replacement name) of ''[[Kentrosaurus]]''
+* ''[[Draconyx]]''
+* ''[[Dracopelta]]''
+* ''[[Dracoraptor]]''
+* ''[[Dracorex]]'' – junior synonym of ''[[Pachycephalosaurus]]''
+* ''[[Dracovenator]]''
+* ''[[Dravidosaurus]]'' – subsequently found to be a [[plesiosaur]]ian
+* ''[[Dreadnoughtus]]''
+* ''[[Drinker (dinosaur)|Drinker]]'' – junior synonym of ''[[Nanosaurus]]''
+* ''[[Dromaeosauroides]]''
+* ''[[Dromaeosaurus]]''
+* ''[[Dromiceiomimus]]'' 
+* ''[[Dromicosaurus]]'' – junior synonym of ''[[Massospondylus]]''
+* ''[[Drusilasaura]]''
+* ''[[Dryosaurus]]''
+* ''[[Dryptosauroides]]''
+* ''[[Dryptosaurus]]''
+* ''[[Dubreuillosaurus]]''
+* "[[Duranteceratops]]" – ''nomen nudum''
+* ''[[Duriatitan]]''
+* ''[[Duriavenator]]''
+* ''[[Dynamosaurus]]'' – junior synonym of ''[[Tyrannosaurus]]''
+* ''[[Dynamoterror]]''
+* ''[[Dyoplosaurus]]''
+* ''[[Dysalotosaurus]]''
+* ''[[Dysganus]]''
+* ''[[Dyslocosaurus]]''
+* ''[[Dystrophaeus]]''
+* ''[[Dystylosaurus]]'' – junior synonym of ''[[Supersaurus]]''
+*''[[Dzharatitanis]]''
+
+==E==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Echinodon]]''
+[[File:Eoraptor Japan.jpg|thumb|Replica of an ''[[Eoraptor]]'' skeleton.]]
+* ''[[Edmarka]]'' – junior synonym of ''[[Torvosaurus]]''
+* ''[[Edmontonia]]''
+* ''[[Edmontosaurus]]''
+* ''[[Efraasia]]''
+* ''[[Einiosaurus]]''
+* ''[[Ekrixinatosaurus]]''
+* ''[[Elachistosuchus]]'' – subsequently found to be a [[sphenodontia|rhynchocephalian]]
+* ''[[Elaltitan]]''
+* ''[[Elaphrosaurus]]''
+* ''[[Elmisaurus]]''
+* ''[[Elopteryx]]''
+* ''[[Elosaurus]]'' – junior synonym of ''[[Brontosaurus]]''
+* ''[[Elrhazosaurus]]''
+* "[[Elvisaurus]]" – ''nomen nudum''; ''[[Cryolophosaurus]]''
+* ''[[Emausaurus]]''
+* ''[[Embasaurus]]''
+* ''[[Enigmosaurus]]''
+* ''[[Eoabelisaurus]]''
+* ''[[Eobrontosaurus]]'' – junior synonym of ''[[Brontosaurus]]''
+* ''[[Eocarcharia]]''
+* ''[[Eoceratops]]'' – junior synonym of ''[[Chasmosaurus]]''
+* ''[[Eocursor]]''
+* ''[[Eodromaeus]]''
+* "[[Eohadrosaurus]]" – ''nomen nudum''; ''[[Eolambia]]''
+* ''[[Eolambia]]''
+* ''[[Eomamenchisaurus]]''
+* "[[Eoplophysis]]" – ''nomen nudum''
+* ''[[Eoraptor]]''
+* ''[[Eosinopteryx]]'' – possibly a bird
+* ''[[Eotrachodon]]''
+* ''[[Eotriceratops]]''
+* ''[[Eotyrannus]]''
+* ''[[Eousdryosaurus]]''
+* ''[[Epachthosaurus]]''
+* ''[[Epanterias]]'' – may be ''[[Allosaurus]]''
+[[File:Euoplocephalus BW.jpg|thumb|Life restoration of ''[[Euoplocephalus]]''.]]
+* "[[Ephoenosaurus]]" – ''nomen nudum''; ''[[Machimosaurus]]'' (a [[crocodilia]]n)
+* ''[[Ankistrodon|Epicampodon]]'' – subsequently found to be a [[proterosuchid]] [[archosauriform]], ''[[Ankistrodon]]''
+* ''[[Epichirostenotes]]''
+* ''[[Epidendrosaurus]]'' – synonym of ''[[Scansoriopteryx]]''
+* ''[[Epidexipteryx]]'' – possibly a bird
+* ''[[Equijubus]]''
+* ''[[Erectopus]]''
+* ''[[Erketu]]''
+* ''[[Erliansaurus]]''
+* ''[[Erlikosaurus]]''
+* ''[[Erythrovenator]]''
+* ''[[Eshanosaurus]]''
+* "[[Euacanthus]]" – ''nomen nudum''; junior synonym of ''[[Polacanthus]]''
+* ''[[Eucamerotus]]''
+* ''[[Eucentrosaurus]]'' – junior synonym (unneeded replacement name) of ''[[Centrosaurus]]''
+* ''[[Eucercosaurus]]''
+* ''[[Eucnemesaurus]]''
+* ''[[Eucoelophysis]]'' – possibly non-dinosaurian
+* "[[Eugongbusaurus]]" – ''nomen nudum''
+* ''[[Euhelopus]]''
+* ''[[Euoplocephalus]]''
+* ''[[Eupodosaurus]]'' – subsequently found to be a [[nothosaur]] synonymous with ''[[Lariosaurus]]''
+* "[[Eureodon]]" – ''nomen nudum''; ''[[Tenontosaurus]]''
+* ''[[Eurolimnornis]]'' – subsequently found to be a [[pterosaur]]
+* ''[[Euronychodon]]''
+* ''[[Europasaurus]]''
+* ''[[Europatitan]]''
+* ''[[Europelta]]''
+* ''[[Euskelosaurus]]''
+* ''[[Eustreptospondylus]]''
+
+==F==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Fabrosaurus]]'' – possibly ''[[Lesothosaurus]]''
+* ''[[Falcarius]]''
+* "[[Fendusaurus]]" – ''nomen nudum''
+* "[[Fenestrosaurus]]" – ''nomen nudum''; ''[[Oviraptor]]''
+* ''[[Ferganasaurus]]''
+* "[[Ferganastegos]]" – ''nomen nudum''
+* ''[[Ferganocephale]]''
+* ''[[Ferrisaurus]]''
+* ''[[Foraminacephale]]''
+* ''[[Fosterovenator]]''
+* ''[[Fostoria dhimbangunmal|Fostoria]]''
+* ''[[Frenguellisaurus]]'' – junior synonym of ''[[Herrerasaurus]]''
+[[File:Fruitadens NT.jpg|thumb|Life restoration of ''[[Fruitadens]]''.]]
+* ''[[Fruitadens]]''
+* ''[[Fukuiraptor]]''
+* ''[[Fukuisaurus]]''
+* ''[[Fukuititan]]''
+* ''[[Fukuivenator]]''
+* ''[[Fulengia]]''
+* ''[[Fulgurotherium]]''
+* ''[[Fushanosaurus]]''
+* "[[Fusinasus]]" – ''nomen nudum''; ''[[Eotyrannus]]''
+* ''[[Fusuisaurus]]''
+* "[[Futabasaurus (dinosaur)|Futabasaurus]]" – ''nomen nudum''; not to be confused with the formally named [[plesiosaur]] ''[[Futabasaurus]]''
+* ''[[Futalognkosaurus]]''
+*''[[Fylax]]''&lt;ref&gt;{{Cite journal|last1=Prieto-Marquez|first1=Albert|last2=Carrera Farias|first2=Miguel|date=2021|title=A new late-surviving early diverging Ibero-Armorican duck-billed dinosaur and the role of the Late Cretaceous European Archipelago in hadrosauroid biogeography|journal=Acta Palaeontologica Polonica|language=en|volume=66|doi=10.4202/app.00821.2020|issn=0567-7920|doi-access=free}}&lt;/ref&gt;
+
+==G==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* "[[Gadolosaurus]]" – ''nomen nudum''
+[[File:Gastonia mount BYU 4.jpg|thumb|Reconstructed skeleton of ''[[Gastonia (dinosaur)|Gastonia]]''.]]
+* ''[[Galeamopus]]''
+* ''[[Galesaurus]]'' – subsequently found to be a [[therapsida|therapsid]]
+* ''[[Galleonosaurus]]''
+* ''[[Gallimimus]]''
+* ''[[Galtonia (archosaur)|Galtonia]]'' – subsequently found to be a [[pseudosuchia]]n; possibly a junior synonym of ''[[Revueltosaurus]]''
+* ''[[Galveosaurus]]'' – synonym of ''[[Galvesaurus]]''
+* ''[[Galvesaurus]]''
+* ''[[Gannansaurus]]''
+* "[[Gansutitan]]" – ''nomen nudum''; ''[[Daxiatitan]]''
+* ''[[Ganzhousaurus]]''
+* ''[[Gargoyleosaurus]]''
+*''[[Garrigatitan]]''
+* ''[[Garudimimus]]''
+* ''[[Gasosaurus]]''
+* ''[[Gasparinisaura]]''
+* ''[[Gastonia (dinosaur)|Gastonia]]''
+* "[[Gavinosaurus]]" – ''nomen nudum''; ''[[Eotyrannus]]''
+* ''[[Geminiraptor]]''
+* ''[[Genusaurus]]''
+* ''[[Genyodectes]]''
+* ''[[Geranosaurus]]''
+* ''[[Gideonmantellia]]''
+* ''[[Giganotosaurus]]''
+* ''[[Gigantoraptor]]''
+* "''[[Tornieria|Gigantosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Tornieria]]''
+* ''[[Gigantosaurus]]''
+* ''[[Gigantoscelus]]'' – Probable junior synonym of ''[[Euskelosaurus]]''
+* ''[[Gigantspinosaurus]]''
+* ''[[Gilmoreosaurus]]''
+* "[[Ginnareemimus]]" – ''nomen nudum''; ''[[Kinnareemimus]]''
+* ''[[Giraffatitan]]''
+* ''[[Glacialisaurus]]''
+* ''[[Glishades]]''
+* ''[[Glyptodontopelta]]''
+* ''[[Gnathovorax]]'' – possibly non-dinosaurian
+[[File:Naturkundemuseum Brachiosaurus brancai.jpg|thumb|Skeleton of ''[[Giraffatitan]]''.]]
+* ''[[Gobiceratops]]'' – possibly junior synonym of ''[[Bagaceratops]]''
+* ''[[Gobihadros]]''
+* ''[[Gobiraptor]]''
+* ''[[Gobisaurus]]''
+* ''[[Gobititan]]''
+* ''[[Gobivenator]]''
+* "[[Godzillasaurus (dinosaur)|Godzillasaurus]]" – ''nomen nudum''; ''[[Gojirasaurus]]''
+* ''[[Gojirasaurus]]''
+* ''[[Gondwanatitan]]''
+* ''[[Gongbusaurus]]''
+* ''[[Gongpoquansaurus]]''
+* ''[[Gongxianosaurus]]''
+* ''[[Gorgosaurus]]''
+* ''[[Goyocephale]]''
+* ''[[Graciliceratops]]''
+* ''[[Graciliraptor]]''
+* ''[[Gracilisuchus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Gravitholus]]''
+* ''[[Gresslyosaurus]]'' – possible junior synonym of ''[[Plateosaurus]]''
+* ''[[Griphornis]]'' – junior synonym of ''[[Archaeopteryx]]''
+* ''[[Griphosaurus]]'' – junior synonym of ''[[Archaeopteryx]]''
+* ''[[Gryphoceratops]]''
+* ''[[Gryponyx]]''
+* ''[[Gryposaurus]]''
+* "[[Gspsaurus]]" – ''nomen nudum''
+* ''[[Guaibasaurus]]''
+* ''[[Gualicho]]''
+* ''[[Guanlong]]''
+* ''[[Guemesia]]''&lt;ref&gt;{{Cite journal|vauthors=Agnolín FL, Cerroni MA, Scanferla A, Goswami A, Paulina-Carabajal A, Halliday T, Cuff AR, Reuil S |year=2022 |title=First definitive abelisaurid theropod from the Late Cretaceous of Northwestern Argentina |journal=Journal of Vertebrate Paleontology |volume=in press |pages=e2002348 |doi=10.1080/02724634.2021.2002348 |s2cid=246766133 }}&lt;/ref&gt;
+* ''[[Gwyneddosaurus]]'' – subsequently found to be a [[Tanystropheus|tanystrophid]]
+* ''[[Gyposaurus]]'' – possibly a junior synonym of ''[[Massospondylus]]''
+
+==H==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* "[[Hadrosauravus]]" – ''nomen nudum''; junior synonym of ''[[Gryposaurus]]''
+* ''[[Hadrosaurus]]''
+* ''[[Haestasaurus]]''
+* ''[[Hagryphus]]''
+* ''[[Hallopus]]'' – subsequently found to be a [[crocodylomorph]]
+* ''[[Halszkaraptor]]''
+* ''[[Halticosaurus]]''
+* ''[[Hamititan]]''&lt;ref name=Hamititan&gt;{{cite journal | vauthors = Wang X, Bandeira KL, Qiu R, Jiang S, Cheng X, Ma Y, Kellner AW | title = The first dinosaurs from the Early Cretaceous Hami Pterosaur Fauna, China | journal = Scientific Reports | volume = 11 | issue = 1 | pages = Article number 14962 | year = 2021 | doi = 10.1038/s41598-021-94273-7 | pmid = 34385481 | pmc = 8361124 | bibcode = 2021NatSR..1114962W | doi-access = free }}&lt;/ref&gt;
+* ''[[Hanssuesia]]''
+* "[[Hanwulosaurus]]" – ''nomen nudum''
+* ''[[Haplocanthosaurus]]''
+* "''[[Haplocanthus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Haplocanthosaurus]]''
+* ''[[Haplocheirus]]''
+* ''[[Harpymimus]]''
+* ''[[Haya griva|Haya]]''
+* ''[[Hecatasaurus]]'' – junior synonym of ''[[Telmatosaurus]]''
+* "[[Heilongjiangosaurus]]" – ''nomen nudum''
+* ''[[Heishansaurus]]''
+* ''[[Helioceratops]]''
+* "''[[Euhelopus|Helopus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Euhelopus]]''
+* ''[[Heptasteornis]]''
+* ''[[Herbstosaurus]]'' – a [[pterosaur]]
+[[File:Heterodontosaurus restoration.jpg|thumb|Artist's restoration of ''[[Heterodontosaurus]]''.]]
+* ''[[Herrerasaurus]]'' – possibly non-dinosaurian
+* ''[[Hesperonychus]]''
+* ''[[Hesperornithoides]]''
+* ''[[Hesperosaurus]]''
+* ''[[Heterodontosaurus]]''
+* ''[[Heterosaurus]]'' – possible synonym of ''[[Mantellisaurus]]''
+* ''[[Hexing]]''
+* ''[[Hexinlusaurus]]''
+* ''[[Heyuannia]]''
+* ''[[Hierosaurus]]''
+* ''[[Hikanodon]]'' – junior synonym of ''[[Iguanodon]]''
+* ''[[Hippodraco]]''
+* "[[Hironosaurus]]" – ''nomen nudum''
+* "[[Hisanohamasaurus]]" – ''nomen nudum''
+* ''[[Histriasaurus]]''
+* ''[[Homalocephale]]''
+* "[[Honghesaurus]]" – ''nomen nudum''; ''[[Yandusaurus]]''
+* ''[[Hongshanosaurus]]'' – junior synonym of ''[[Psittacosaurus]]''
+* ''[[Hoplitosaurus]]''
+* ''[[Hoplosaurus]]'' – junior synonym of ''[[Struthiosaurus]]''
+* ''[[Horshamosaurus]]''
+* ''[[Hortalotarsus]]'' – possible junior synonym of ''[[Massospondylus]]''
+* ''[[Huabeisaurus]]''
+* ''[[Hualianceratops]]''
+* ''[[Huallasaurus]]''&lt;ref name=Huallasaurus&gt;{{cite journal | url=https://www.tandfonline.com/doi/full/10.1080/14772019.2021.2020917 | title=A new hadrosaurid (Dinosauria: Ornithischia) from the Late Cretaceous of northern Patagonia and the radiation of South American hadrosaurids | last1=Rozadilla | first1=Sebastián | last2=Brissón-Egli | first2=Federico | last3=Lisandro Agnolín | first3=Federico | last4=Aranciaga-Rolando | first4=Alexis Mauro | last5=Novas | first5=Fernando Emilio | journal=Journal of Systematic Palaeontology | year=2022 | doi=10.1080/14772019.2021.2020917}}&lt;/ref&gt;
+[[File:Hypsilophodon foxii 1.jpg|thumb|Skeleton of ''[[Hypsilophodon]].]]
+* ''[[Huanansaurus]]''
+* ''[[Huanghetitan]]''
+* ''[[Huangshanlong]]''
+* ''[[Huaxiagnathus]]''
+* ''[[Huaxiaosaurus]]'' – junior synonym of ''[[Shantungosaurus]]''
+* "[[Huaxiasaurus]]" – ''nomen nudum''; ''[[Huaxiagnathus]]''
+* ''[[Huayangosaurus]]''
+* ''[[Hudiesaurus]]''
+* ''[[Huehuecanauhtlus]]''
+* ''[[Huinculsaurus]]''
+* ''[[Hulsanpes]]'' 
+* ''[[Hungarosaurus]]''
+* ''[[Huxleysaurus]]'' – junior synonym of ''[[Hypselospinus]]''
+* ''[[Hylaeosaurus]]''
+* ''[[Hylosaurus]]'' – junior synonym of ''[[Hylaeosaurus]]''
+* ''[[Hypacrosaurus]]''
+* ''[[Hypselorhachis]]'' – subsequently found to be a [[ctenosauriscid]]
+* ''[[Hypselosaurus]]''
+* ''[[Hypselospinus]]''
+* ''[[Hypsibema]]''
+* ''[[Hypsilophodon]]''
+* ''[[Hypsirhophus]]''
+
+==I==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Iberospinus]]''&lt;ref&gt;{{Cite journal|last1=Mateus|first1=Octávio|last2=Estraviz-López|first2=Darío|date=2022-02-16|title=A new theropod dinosaur from the early cretaceous (Barremian) of Cabo Espichel, Portugal: Implications for spinosaurid evolution|journal=PLOS ONE|language=en|volume=17|issue=2|pages=e0262614|doi=10.1371/journal.pone.0262614|pmid=35171930|issn=1932-6203|doi-access=free}}&lt;/ref&gt;
+* "[[Ichabodcraniosaurus]]" – ''nomen nudum''; ''[[Shri devi|Shri]]''
+* ''[[Ichthyovenator]]''
+* ''[[Ignavusaurus]]''
+* ''[[Ignotosaurus]]'' – possibly non-dinosaurian
+* ''[[Iguanacolossus]]''
+* ''[[Iguanodon]]''
+* "[[Iguanoides]]" – ''nomen nudum''; ''[[Iguanodon]]''
+* "[[Iguanosaurus]]" – ''nomen nudum''; ''[[Iguanodon]]''
+* ''[[Iliosuchus]]''
+* ''[[Ilokelesia]]''
+* ''[[Imperobator]]''
+[[File:Iguanodon de Bernissart IRSNB 01.JPG|thumb|Skeleton of an ''[[Iguanodon]]'' mounted in a modern quadrupedal posture in the [[Royal Belgian Institute of Natural Sciences]] in [[Brussels]].]]
+* ''[[Incisivosaurus]]''
+* ''[[Indosaurus]]''
+* ''[[Indosuchus]]''
+* "''[[Heyuannia|Ingenia]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Heyuannia|Heyuannia yanshini]]''
+* ''[[Ingentia]]''
+* ''[[Inosaurus]]'' 
+* ''[[Invictarx]]''
+* ''[[Irisosaurus]]''
+* ''[[Irritator]]''
+* ''[[Isaberrysaura]]''
+* ''[[Isanosaurus]]''
+* ''[[Isasicursor]]''
+* ''[[Ischioceratops]]''
+* ''[[Ischisaurus]]'' – junior synonym of ''[[Herrerasaurus]]''
+* "''[[Ischyrosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, has not yet been renamed
+* ''[[Isisaurus]]''
+* "[[Issasaurus]]" – ''nomen nudum''; ''[[Dicraeosaurus]]''
+* ''[[Issi]]''&lt;ref&gt;{{cite journal |last1=Beccari |first1=V. |last2=Mateus |first2=O. |last3=Wings |first3=O. |last4=Milàn |first4=J. |last5=Clemmensen |first5=L. B. |title=''Issi saaneq'' gen. et sp. nov.—A New Sauropodomorph Dinosaur from the Late Triassic (Norian) of Jameson Land, Central East Greenland |journal=Diversity |date=2021 |volume=13 |issue=11 |pages=561 |doi=10.3390/d13110561 |language=en|doi-access=free }}&lt;/ref&gt;
+* ''[[Itapeuasaurus]]''
+* ''[[Itemirus]]''
+* ''[[Iuticosaurus]]''
+
+==J==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Jainosaurus]]''
+* ''[[Jaklapallisaurus]]''
+* ''[[Janenschia]]''
+* ''[[Jaxartosaurus]]''
+* ''[[Jeholosaurus]]''
+* ''[[Jenghizkhan]]'' – junior synonym of ''[[Tarbosaurus]]''
+* "[[Jensenosaurus]]" – ''nomen nudum''; ''[[Supersaurus]]''
+* ''[[Jeyawati]]''
+* ''[[Jianchangosaurus]]''
+* "[[Jiangjunmiaosaurus]]" – ''nomen nudum''; ''[[Monolophosaurus]]''
+* ''[[Jiangjunosaurus]]''
+* ''[[Jiangshanosaurus]]''
+[[File:Jinfengopteryx wiki.jpg|thumb|Life restoration of ''[[Jinfengopteryx]]''.]]
+* ''[[Jiangxisaurus]]''
+* ''[[Jianianhualong]]'' 
+* ''[[Jinbeisaurus]]''
+* ''[[Jinfengopteryx]]''
+* ''[[Jingshanosaurus]]''
+* ''[[Jintasaurus]]''
+* ''[[Jinyunpelta]]''
+* ''[[Jinzhousaurus]]''
+* ''[[Jiutaisaurus]]''
+* ''[[Jobaria]]''
+* ''[[Jubbulpuria]]''
+* ''[[Judiceratops]]''
+* ''[[Jurapteryx]]'' – junior synonym of ''[[Archaeopteryx]]''
+* "[[Jurassosaurus]]" – ''nomen nudum''; ''[[Tianchisaurus]]''
+* ''[[Juratyrant]]''
+* ''[[Juravenator]]''
+
+==K==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Kaatedocus]]''
+* "[[Kagasaurus]]" – ''nomen nudum''
+* ''[[Kaijiangosaurus]]''
+* ''[[Kaijutitan]]''
+* ''[[Kakuru]]''
+* ''[[Kamuysaurus]]''
+* ''[[Kangnasaurus]]''
+* ''[[Kansaignathus]]''&lt;ref&gt;{{Cite journal|last1=Averianov|first1=A. O.|last2=Lopatin|first2=A. V.|date=2021|title=A New Theropod Dinosaur (Theropoda, Dromaeosauridae) from the Late Cretaceous of Tajikistan|journal=Doklady Earth Sciences|volume=499|number=1|pages=570–574|doi=10.1134/S1028334X21070047|bibcode=2021DokES.499..570A|s2cid=239088573|url=https://link.springer.com/article/10.1134%2FS1028334X21070047}}&lt;/ref&gt;
+* ''[[Karongasaurus]]''
+* ''[[Katepensaurus]]''
+* "[[Katsuyamasaurus]]" – ''nomen nudum''
+*''[[Kayentavenator]]''
+* ''[[Kazaklambia]]''
+* ''[[Kelmayisaurus]]''
+* ''[[Kelumapusaura]]''&lt;ref name=Huallasaurus /&gt;
+* ''[[Kemkemia]]'' – subsequently found to be a [[crocodyliform]]
+* ''[[Kentrosaurus]]''
+* ''[[Kentrurosaurus]]'' – junior synonym (unneeded replacement name) of ''[[Kentrosaurus]]''
+* ''[[Kerberosaurus]]''
+[[File:Berlin Naturkundemuseum Dino Eingangshalle.jpg|thumb|''[[Kentrosaurus]]'' skeleton.]]
+* ''[[Khaan]]''
+* "[[Khetranisaurus]]" – ''nomen nudum''
+* ''[[Kholumolumo]]''
+* ''[[Khulsanurus]]''&lt;ref&gt;{{cite journal| vauthors = Averianov AO, Lopatin AV |year=2021 |title=The second taxon of alvarezsaurid theropod dinosaurs from the Late Cretaceous Khulsan locality in Gobi Desert, Mongolia |journal=Historical Biology: An International Journal of Paleobiology |volume=in press |doi=10.1080/08912963.2021.2000976| pages=1–12 |s2cid=244421277 }}&lt;/ref&gt;
+* ''[[Kileskus]]''
+* ''[[Kinnareemimus]]''
+* "[[Kitadanisaurus]]" – ''nomen nudum''; ''[[Fukuiraptor]]''
+* "[[Kittysaurus]]" – ''nomen nudum''; ''[[Eotyrannus]]''
+* ''[[Klamelisaurus]]'' 
+* ''[[Kol ghuva|Kol]]''
+* ''[[Koparion]]''
+* ''[[Koreaceratops]]''
+* ''[[Koreanosaurus]]''
+* "[[Koreanosaurus (theropod)|Koreanosaurus]]" – ''nomen nudum''; name later used formally for a [[Koreanosaurus|genus of ornithopod]]
+* ''[[Koshisaurus]]''
+* ''[[Kosmoceratops]]''
+* ''[[Kotasaurus]]''
+* ''[[Koutalisaurus]]'' – possible junior synonym of ''[[Pararhabdodon]]''
+* ''[[Kritosaurus]]''
+* ''[[Kryptops]]''
+* ''[[Krzyzanowskisaurus]]''  – probably a [[pseudosuchia]]n (''[[Revueltosaurus]]''?)
+* ''[[Kukufeldia]]'' – junior synonym of ''[[Barilium]]''
+* ''[[Kulceratops]]''
+* ''[[Kulindadromeus]]''
+* ''[[Kulindapteryx]]'' – synonym of ''[[Kulindadromeus]]''
+* ''[[Kunbarrasaurus]]''
+* ''[[Kundurosaurus]]''
+* "[[Kunmingosaurus]]" – ''nomen nudum''
+* ''[[Kuru kulla|Kuru]]''&lt;ref&gt;{{cite journal|last1=Napoli|first1=J. G.|last2=Ruebenstahl|first2=A. A.|last3=Bhullar|first3=B.-A. S.|last4=Turner|first4=A. H.|last5=Norell|first5=M. A.|date=2021|title=A New Dromaeosaurid (Dinosauria: Coelurosauria) from Khulsan, Central Mongolia|url=https://digitallibrary.amnh.org/bitstream/handle/2246/7286/3982.pdf?sequence=1&amp;isAllowed=y|journal=American Museum Novitates|issue=3982|pages=1–47|doi=10.1206/3982.1|issn=0003-0082|hdl=2246/7286|s2cid=243849373}}&lt;/ref&gt;
+* ''[[Kurupi itaata|Kurupi]]''&lt;ref&gt;{{Cite journal |last1=Iori |first1=F.V. |last2=de Araújo-Júnior |first2=H.I. |first3=S.A. |last3=Simionato Tavares |first4=T. |last4=da Silva Marinho |first5=A.G. |last5=Martinelli |year=2021 |title=New theropod dinosaur from the late Cretaceous of Brazil improves abelisaurid diversity |journal=Journal of South American Earth Sciences |volume=112 |pages=103551 |doi=10.1016/j.jsames.2021.103551 |bibcode=2021JSAES.11203551I |s2cid=239682640 |issn=0895-9811}}&lt;/ref&gt;
+* ''[[Kuszholia]]'' – probably a [[bird]]
+* ''[[Kwanasaurus]]'' – possibly non-dinosaurian
+
+==L==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Labocania]]''
+* ''[[Labrosaurus]]'' – junior synonym of ''[[Allosaurus]]''
+* "''[[Laelaps (dinosaur)|Laelaps]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Dryptosaurus]]''
+* ''[[Laevisuchus]]''
+* ''[[Lagerpeton]]'' – subsequently found to be a non-dinosaurian [[dinosauromorph]]
+* ''[[Lagosuchus]]'' – subsequently found to be a non-dinosaurian [[dinosauromorph]]
+* ''[[Laiyangosaurus]]''
+* ''[[Lajasvenator]]''
+* ''[[Lamaceratops]]'' – possible junior synonym of ''[[Bagaceratops]]''
+* ''[[Lambeosaurus]]''
+* ''[[Lametasaurus]]'' 
+* ''[[Lamplughsaura]]''
+* ''[[Lanasaurus]]'' – junior synonym of ''[[Lycorhinus]]''
+* "[[Lancangosaurus]]" – variant spelling of "[[Lancanjiangosaurus]]"
+* "[[Lancanjiangosaurus]]"  – ''nomen nudum''
+* ''[[Lanzhousaurus]]''
+* ''[[Laosaurus]]''
+* ''[[Lapampasaurus]]''
+* ''[[Laplatasaurus]]''
+* ''[[Lapparentosaurus]]''
+* ''[[Laquintasaura]]''
+* ''[[Latenivenatrix]]''
+* ''[[Latirhinus]]''
+* ''[[Lavocatisaurus]]''
+* ''[[Leaellynasaura]]''
+* ''[[Ledumahadi]]''
+[[File:Lambeosaurus magnicristatus DB.jpg|thumb|Artist's restoration of ''[[Lambeosaurus]]''.]]
+* ''[[Leinkupal]]''
+* ''[[Leipsanosaurus]]'' – junior synonym of ''[[Struthiosaurus]]''
+* "[[Lengosaurus]]" – ''nomen nudum''; ''[[Eotyrannus]]''
+* ''[[Leonerasaurus]]''
+* ''[[Lepidocheirosaurus]]'' — junior synonym of ''[[Kulindadromeus]]''
+* ''[[Lepidus praecisio|Lepidus]]''
+* ''[[Leptoceratops]]''
+* ''[[Leptorhynchos (dinosaur)|Leptorhynchos]]''
+* ''[[Leptospondylus]]'' – junior synonym of ''[[Massospondylus]]''
+* ''[[Leshansaurus]]''
+* ''[[Lesothosaurus]]''
+* ''[[Lessemsaurus]]''
+* ''[[Levnesovia]]''
+* ''[[Lewisuchus]]'' – possibly non-dinosaurian
+* ''[[Lexovisaurus]]''
+* ''[[Leyesaurus]]''
+* ''[[Liaoceratops]]''
+* ''[[Liaoningosaurus]]''
+* ''[[Liaoningotitan]]'' 
+* ''[[Liaoningvenator]]'' 
+* "[[Liassaurus]]" – ''nomen nudum''; possible synonym of ''[[Sarcosaurus]]''
+* ''[[Libycosaurus]]'' – subsequently found to be an [[anthracothere]] [[mammal]]
+* ''[[Ligabueino]]''
+* ''[[Ligabuesaurus]]''
+* "[[Ligomasaurus]]" – ''nomen nudum'', synonym of ''[[Giraffatitan]]''
+* "[[Likhoelesaurus]]" – ''nomen nudum''; possibly non-dinosaurian
+* ''[[Liliensternus]]''
+* ''[[Limaysaurus]]''
+* "''[[Palaeocursornis|Limnornis]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Palaeocursornis]]'' ( a [[pterosaur]])
+* "''[[Telmatosaurus|Limnosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Telmatosaurus]]''
+* ''[[Limusaurus]]''
+* ''[[Lingwulong]]''
+* ''[[Lingyuanosaurus]]''
+* ''[[Linhenykus]]''
+* ''[[Linheraptor]]''
+* ''[[Linhevenator]]''
+[[File:Linhenykus monodactylus.jpg|upright|thumb|Life reconstruction of two individuals of ''[[Linhenykus]]'' in their arid [[Campanian]]-aged living environment.]]
+* ''[[Lirainosaurus]]''
+* ''[[Lisboasaurus]]'' – subsequently found to be a [[crocodilia]]n
+* ''[[Liubangosaurus]]''
+* ''[[Llukalkan]]''&lt;ref&gt;{{cite journal| vauthors = Gianechini FA, Méndez AH, Filippi LS, Paulina-Carabajal A, Juárez-Valieri RD, Garrido AC |title=A New Furileusaurian Abelisaurid from La Invernada (Upper Cretaceous, Santonian, Bajo De La Carpa Formation), Northern Patagonia, Argentina.|journal= Journal of Vertebrate Paleontology|year= 2021|volume=40|issue=6|pages= e1877151|doi= 10.1080/02724634.2020.1877151|doi-access= free}}&lt;/ref&gt;
+* ''[[Lohuecotitan]]''
+* ''[[Loncosaurus]]''
+* ''[[Longisquama]]'' – subsequently found to be a non-dinosaurian [[reptile]]
+* ''[[Longosaurus]]'' – junior synonym of ''[[Coelophysis]]''
+* ''[[Lophorhothon]]''
+* ''[[Lophostropheus]]''
+* ''[[Loricatosaurus]]''
+* ''[[Loricosaurus]]''
+* ''[[Losillasaurus]]''
+* ''[[Lourinhanosaurus]]''
+* ''[[Lourinhasaurus]]''
+* ''[[Luanchuanraptor]]''
+* "[[Luanpingosaurus]]" – ''nomen nudum''; ''[[Psittacosaurus]]''
+* ''[[Lucianosaurus]]'' – subsequently found to be a non-dinosaurian [[archosauriform]]
+* ''[[Lucianovenator]]'' 
+* ''[[Lufengosaurus]]''
+* ''[[Lukousaurus]]'' – possibly a [[crurotarsi|crurotarsan]]
+* ''[[Luoyanggia]]''
+* ''[[Lurdusaurus]]''
+* ''[[Lusitanosaurus]]''
+* ''[[Lusotitan]]''
+* ''[[Lusovenator]]''
+* ''[[Lutungutali]]'' – possibly non-dinosaurian
+* ''[[Lycorhinus]]''
+* ''[[Lythronax]]''
+
+==M==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Macelognathus]]'' – subsequently found to be a sphenosuchian [[crocodilia]]n
+[[File:Massospondylus reconstruction.png|thumb|Artist's reconstruction of ''[[Massospondylus]]''.]]
+* ''[[Machairasaurus]]''
+* ''[[Machairoceratops]]''
+* ''[[Macrocollum]]''
+* ''[[Macrodontophion]]'' – subsequently found to be a member of [[Lophotrochozoa]]
+* ''[[Macrogryphosaurus]]''
+* ''[[Macrophalangia]]'' – junior synonym of ''[[Chirostenotes]]''
+* "[[Macroscelosaurus]]" – ''nomen nudum''; junior synonym of ''[[Tanystropheus]]''
+* ''[[Macrurosaurus]]''
+* "[[Madsenius]]" – ''nomen nudum'', ''[[Allosaurus]]''
+* ''[[Magnamanus]]''
+* ''[[Magnapaulia]]''
+* ''[[Magnirostris]]'' – possible junior synonym of ''[[Bagaceratops]]''
+* ''[[Magnosaurus]]''
+* "[[Magulodon]]" – ''nomen nudum''
+* ''[[Magyarosaurus]]''
+* ''[[Mahakala omnogovae|Mahakala]]''
+* ''[[Mahuidacursor]]''
+* ''[[Maiasaura]]''
+* ''[[Majungasaurus]]''
+* ''[[Majungatholus]]'' – junior synonym of ''[[Majungasaurus]]''
+* ''[[Malarguesaurus]]''
+* ''[[Malawisaurus]]''
+* ''[[Maleevosaurus]]'' – junior synonym of ''[[Tarbosaurus]]''
+* ''[[Maleevus]]''
+* ''[[Mamenchisaurus]]''
+* ''[[Mandschurosaurus]]''
+* ''[[Manidens]]''
+* ''[[Manospondylus]]'' – synonym of ''[[Tyrannosaurus]]''
+[[File:Microraptor Restoration.png|thumb|Artist's reconstruction of ''[[Microraptor]]'' with colouration based on fossilised [[Melanosome|melanosomes]].]]
+* ''[[Mansourasaurus]]''
+* ''[[Mantellisaurus]]''
+* ''[[Mantellodon]]'' – junior synonym of ''[[Mantellisaurus]]''
+* "[[Maojandino]]" – ''nomen nudum''
+* ''[[Mapusaurus]]''
+* ''[[Maraapunisaurus]]''
+* ''[[Marasuchus]]'' – subsequently found to be a non-dinosaurian [[dinosauromorph]]
+* "[[Marisaurus]]" – ''nomen nudum''
+* ''[[Marmarospondylus]]''
+* ''[[Marshosaurus]]''
+* ''[[Martharaptor]]''
+* ''[[Masiakasaurus]]''
+* ''[[Massospondylus]]''
+* ''[[Matheronodon]]''
+* ''[[Maxakalisaurus]]''
+* ''[[Medusaceratops]]''
+* "[[Megacervixosaurus]]" – ''nomen nudum''
+* "''[[Megadactylus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Anchisaurus]]''
+* "[[Megadontosaurus]]" – ''nomen nudum''; ''[[Microvenator]]''
+* ''[[Megalosaurus]]''
+* ''[[Megapnosaurus]]'' – possible junior synonym of ''[[Coelophysis]]''
+* ''[[Megaraptor]]''
+* ''[[Mei (dinosaur)|Mei]]''
+* ''[[Melanorosaurus]]''
+* ''[[Mendozasaurus]]''
+* ''[[Menefeeceratops]]''
+* ''[[Menucocelsior]]''&lt;ref&gt;{{Cite journal|vauthors=Rolando MA, Garcia Marsà JA, Agnolín FL, Motta MJ, Rodazilla S, Novas FE|date=2022|title=The sauropod record of Salitral Ojo del Agua: An Upper Cretaceous (Allen Formation) fossiliferous locality from northern Patagonia, Argentina|journal=Cretaceous Research|language=en|volume=129|pages=105029|doi=10.1016/j.cretres.2021.105029|s2cid=240577726|issn=0195-6671}}&lt;/ref&gt;
+* ''[[Mercuriceratops]]''
+* ''[[Meroktenos]]''
+* ''[[Metriacanthosaurus]]''
+* "[[Microcephale]]" – ''nomen nudum''
+* "''[[Microceratops gobiensis|Microceratops]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Microceratus]]''
+* ''[[Microceratus]]''
+* ''[[Microcoelus]]''
+* "[[Microdontosaurus]]" – ''nomen nudum''
+* ''[[Microhadrosaurus]]''
+* ''[[Micropachycephalosaurus]]''
+* ''[[Microraptor]]''
+* ''[[Microvenator]]''
+* ''[[Mierasaurus]]''
+* "[[Mifunesaurus]]" – ''nomen nudum''
+* ''[[Minmi paravertebra|Minmi]]''
+* ''[[Minotaurasaurus]]'' 
+* ''[[Miragaia longicollum|Miragaia]]''
+* ''[[Mirischia]]''
+* ''[[Mnyamawamtuka]]''
+* ''[[Moabosaurus]]''
+* ''[[Mochlodon]]''
+* "[[Mohammadisaurus]]" – ''nomen nudum''; ''[[Tornieria]]''
+[[File:Muttaburrasaurus skel QM email.jpg|thumb|Cast of a ''[[Muttaburrasaurus]]'' skeleton.]]
+* ''[[Mojoceratops]]'' – junior synonym of ''[[Chasmosaurus]]''
+* ''[[Mongolosaurus]]''
+* ''[[Mongolostegus]]''
+* ''[[Monkonosaurus]]''
+* ''[[Monoclonius]]''
+* ''[[Monolophosaurus]]''
+* "''[[Mononychus olecranus|Mononychus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Mononykus]]''
+* ''[[Mononykus]]''
+* ''[[Montanoceratops]]''
+* ''[[Morelladon]]''
+* ''[[Morinosaurus]]''
+* ''[[Moros intrepidus|Moros]]''
+* ''[[Morosaurus]]'' – junior synonym of ''[[Camarasaurus]]''
+* ''[[Morrosaurus]]''
+* ''[[Mosaiceratops]]''
+* "[[Moshisaurus]]" – ''nomen nudum''; possibly ''[[Mamenchisaurus]]''
+* "[[Mtapaiasaurus]]" – ''nomen nudum'', synonym of ''[[Giraffatitan]]''
+* "[[Mtotosaurus]]" – ''nomen nudum''; ''[[Dicraeosaurus]]''
+* ''[[Murusraptor]]''
+* ''[[Mussaurus]]''
+* ''[[Muttaburrasaurus]]''
+* ''[[Muyelensaurus]]''
+* ''[[Mymoorapelta]]''
+
+==N==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Naashoibitosaurus]]''
+* ''[[Nambalia]]''
+* ''[[Nankangia]]''
+* ''[[Nanningosaurus]]''
+* ''[[Nanosaurus]]''
+* ''[[Nanotyrannus]]'' – junior synonym of ''[[Tyrannosaurus]]''
+* ''[[Nanshiungosaurus]]''
+* ''[[Nanuqsaurus]]''
+[[File:Neimongosaurus.jpg|thumb|Life restoration of ''[[Neimongosaurus]]''.]]
+* ''[[Nanyangosaurus]]''
+* ''[[Napaisaurus]]''&lt;ref&gt;{{cite journal| vauthors = Ji S, Zhang P |title=First new genus and species of basal iguanodontian dinosaur (Ornithischia: Ornithopoda) from southern China |year=2022 |journal=Acta Geoscientica Sinica |volume=43 |issue=1 |pages=1–10 |doi=10.3975/cagsb.2021.090701 }}&lt;/ref&gt;
+* ''[[Narambuenatitan]]''
+* ''[[Narindasaurus]]''
+* ''[[Nasutoceratops]]''
+* ''[[Natronasaurus]]'' – renamed ''[[Alcovasaurus]]''
+* ''[[Navajoceratops]]'' 
+* ''[[Nebulasaurus]]''
+* "''[[Nectosaurus navajovius|Nectosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Kritosaurus]]''
+* ''[[Nedcolbertia]]''
+* ''[[Nedoceratops]]'' – possible junior synonym of ''[[Triceratops]]''
+* ''[[Neimongosaurus]]''
+* "''[[Nemegtomaia|Nemegtia]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Nemegtomaia]]''
+* ''[[Nemegtomaia]]''
+* ''[[Nemegtonykus]]''
+* ''[[Nemegtosaurus]]''
+* "''[[Neosaurus missouriensis|Neosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name; renamed ''[[Parrosaurus]]'', which is now ''[[Hypsibema]]''
+* ''[[Neosodon]]''
+* ''[[Neovenator]]''
+* ''[[Neuquenraptor]]''
+* ''[[Neuquensaurus]]''
+* "[[Nevadadromeus]]" – in press
+* "[[Newtonsaurus]]" – ''nomen nudum'', possibly ''[[Zanclodon cambrensis|Zanclodon]]''
+* "[[Ngexisaurus]]" – ''nomen nudum''
+* ''[[Ngwevu]]''
+* ''[[Nhandumirim]]''
+* ''[[Nicksaurus]]'' – ''nomen manuscriptum''
+* ''[[Niebla antiqua|Niebla]]''
+* ''[[Nigersaurus]]''
+* ''[[Ningyuansaurus]]''
+* ''[[Ninjatitan]]''
+* ''[[Niobrarasaurus]]''
+[[File:Nemegtomaia barsboldi profile1.jpg|thumb|Restored head of ''[[Nemegtomaia]]''.]]
+* ''[[Nipponosaurus]]''
+* ''[[Noasaurus]]''
+* ''[[Nodocephalosaurus]]''
+* ''[[Nodosaurus]]''
+* ''[[Nomingia]]''
+* ''[[Nopcsaspondylus]]''
+* ''[[Normanniasaurus]]''
+* ''[[Notatesseraeraptor]]''
+* ''[[Nothronychus]]''
+* ''[[Notoceratops]]''
+* ''[[Notocolossus]]''
+* ''[[Notohypsilophodon]]''
+* ''[[Nqwebasaurus]]''
+* "[[Nteregosaurus]]" – ''nomen nudum''; ''[[Janenschia]]''
+* ''[[Nullotitan]]''
+* "[[Nurosaurus]]" – ''nomen nudum''
+* ''[[Nuthetes]]''
+* ''[[Nyasasaurus]]'' – possibly a non-dinosaurian [[dinosauriform]]
+* "[[Nyororosaurus]]" – ''nomen nudum''; ''[[Dicraeosaurus]]''
+
+==O==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Oceanotitan]]''
+* ''[[Ohmdenosaurus]]''
+* ''[[Ojoceratops]]'' – possible synonym of ''[[Eotriceratops]]''
+* ''[[Ojoraptorsaurus]]''
+* ''[[Oksoko avarsan|Oksoko]]''
+* ''[[Oligosaurus]]'' 
+* ''[[Olorotitan]]''
+* ''[[Omeisaurus]]''
+* "''[[Omosaurus armatus|Omosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Dacentrurus]]''
+* ''[[Ondogurvel]]''&lt;ref&gt;{{Cite journal|last1=Averianov|first1=Alexander O.|last2=Lopatin|first2=Alexey V.|date=2022-02-19|title=A new alvarezsaurid theropod dinosaur from the Upper Cretaceous of Gobi Desert, Mongolia|url=https://www.sciencedirect.com/science/article/pii/S0195667122000325|journal=Cretaceous Research|language=en|pages=105168|doi=10.1016/j.cretres.2022.105168|s2cid=247000540|issn=0195-6671}}&lt;/ref&gt;
+* ''[[Onychosaurus]]'' – junior synonym of ''[[Zalmoxes]]'' or ''[[Rhabdodon]]'', or an [[ankylosauria]]n
+* ''[[Oohkotokia]]'' 
+* ''[[Opisthocoelicaudia]]''
+* ''[[Oplosaurus]]''
+* "[[Orcomimus]]" – ''nomen nudum''
+* ''[[Orinosaurus]]'' – junior synonym (unneeded replacement name) of ''[[Orosaurus]]''
+* ''[[Orkoraptor]]''
+* ''[[Ornatops]]''
+* ''[[Ornatotholus]]'' – junior synonym of ''[[Stegoceras]]''
+* ''[[Ornithodesmus]]''
+* "[[Ornithoides]]" – ''nomen nudum''; ''[[Saurornithoides]]''
+* ''[[Ornitholestes]]''
+[[File:Omeisaurus tianfuensis34.jpg|thumb|Artist's reconstruction of ''[[Omeisaurus]]''.]]
+* ''[[Ornithomerus]]'' 
+* ''[[Ornithomimoides]]''
+* ''[[Ornithomimus]]''
+* ''[[Ornithopsis]]''
+* ''[[Ornithosuchus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Ornithotarsus]]'' – junior synonym of ''[[Hadrosaurus]]''
+* ''[[Orodromeus]]''
+* ''[[Orosaurus]]'' 
+* ''[[Orthogoniosaurus]]''
+* ''[[Orthomerus]]''
+* ''[[Oryctodromeus]]''
+* "[[Oshanosaurus]]" – ''nomen nudum''
+* ''[[Osmakasaurus]]''
+* ''[[Ostafrikasaurus]]''
+* ''[[Ostromia]]'' – possibly a bird
+* ''[[Othnielia]]'' – junior synonym of ''[[Nanosaurus]]''
+* ''[[Othnielosaurus]]'' – junior synonym of ''[[Nanosaurus]]''
+* ''[[Otogosaurus]]''
+* ''[[Ouranosaurus]]''
+* ''[[Overoraptor]]''
+* ''[[Overosaurus]]''
+* ''[[Oviraptor]]''
+* "[[Ovoraptor]]" – ''nomen nudum''; ''[[Velociraptor]]''
+* ''[[Owenodon]]''
+* ''[[Oxalaia]]'' – possible junior synonym of ''[[Spinosaurus]]''
+* ''[[Ozraptor]]''
+
+==P==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Pachycephalosaurus]]''
+* ''[[Pachyrhinosaurus]]''
+* ''[[Pachysauriscus]]'' – junior synonym of ''[[Plateosaurus]]''
+* ''[[Pachysaurops]]'' – junior synonym of ''[[Plateosaurus]]''
+* "''[[Pachysaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Pachysauriscus]]''; junior synonym of ''[[Plateosaurus]]''
+* ''[[Pachyspondylus]]'' – junior synonym of ''[[Massospondylus]]''
+* ''[[Pachysuchus]]''
+* ''[[Padillasaurus]]''
+* "[[Pakisaurus]]" – ''nomen nudum''
+* ''[[Palaeoctonus]]'' – subsequently found to be a [[phytosaur]]
+* ''[[Palaeocursornis]]'' – subsequently found to be an [[azhdarchoid]] [[pterosaur]]
+* "[[Palaeolimnornis]]" – ''nomen nudum''; ''[[Palaeocursornis]]'', pterodactyloid pterosaur belonging to [[Azhdarchoidea]]
+* ''[[Palaeopteryx]]'' – possibly a [[bird]]
+* ''[[Palaeosauriscus]]'' – junior synonym of ''[[Palaeosaurus]]''
+* ''[[Palaeosaurus]]'' – subsequently found to be a non-dinosaurian [[reptile]]
+* "''[[Palaeosaurus sternbergii|Palaeosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Sphenosaurus]]'' and considered to be a non-dinosaurian [[procolophonid]]
+* ''[[Palaeoscincus]]''
+* ''[[Paleosaurus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]; junior synonym (unneeded replacement name) of ''[[Palaeosaurus]]''
+* ''[[Paludititan]]''
+* ''[[Paluxysaurus]]'' – junior synonym of ''[[Sauroposeidon]]''
+* ''[[Pampadromaeus]]''
+[[File:Pachycephalosaurus Reconstruction.jpg|thumb|Life restoration of ''[[Pachycephalosaurus]]''.]]
+* ''[[Pamparaptor]]''
+* ''[[Panamericansaurus]]''
+* ''[[Pandoravenator]]''
+* ''[[Panguraptor]]''
+* ''[[Panoplosaurus]]''
+* ''[[Panphagia]]''
+* ''[[Pantydraco]]'' – possible synonym of ''[[Thecodontosaurus]]''
+* ''[[Papiliovenator]]''&lt;ref&gt;{{cite journal |last1=Pei |first1=R. |last2=Qin |first2=Yuying |last3=Wen |first3=Aishu |last4=Zhao |first4=Q. |last5=Wang |first5=Z. |last6=Liu |first6=Z. |last7=Guo |first7=W. |last8=Liu |first8=P. |last9=Ye |first9=W. |last10=Wang |first10=L. |last11=Yin |first11=Z. |last12=Dai |first12=R. |last13=Xu|first13=X. |year=2022 |title=A New Troodontid from the Upper Cretaceous Gobi Basin of Inner Mongolia, China |journal=Cretaceous Research |volume=130 |pages=Article 105052 |doi=10.1016/j.cretres.2021.105052|s2cid=244186762 }}&lt;/ref&gt;
+* "[[Paraiguanodon]]" – ''nomen nudum''; ''[[Bactrosaurus]]''
+* ''[[Paralititan]]''
+* ''[[Paranthodon]]''
+* ''[[Pararhabdodon]]''
+* ''[[Parasaurolophus]]''
+* ''[[Paraxenisaurus]]''
+* ''[[Pareiasaurus]]'' – subsequently found to be a [[pareiasaur]]
+* ''[[Pareisactus]]''
+* ''[[Parksosaurus]]''
+* ''[[Paronychodon]]''
+* ''[[Parrosaurus]]'' – now known as ''[[Hypsibema missouriensis]]''
+* ''[[Parvicursor]]''
+* ''[[Patagonykus]]''
+* ''[[Patagosaurus]]''
+* ''[[Patagotitan]]''
+* ''[[Pawpawsaurus]]''
+* ''[[Pectinodon]]''
+* ''[[Pedopenna]]'' – possibly a bird
+* ''[[Pegomastax]]''
+* ''[[Peishansaurus]]''
+* ''[[Pekinosaurus]]'' – subsequently found to be a [[pseudosuchia]]n; junior synonym of ''[[Revueltosaurus]]''
+* ''[[Pelecanimimus]]''
+* ''[[Pellegrinisaurus]]''
+* ''[[Peloroplites]]''
+* ''[[Pelorosaurus]]''
+* "''[[Peltosaurus (dinosaur)|Peltosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Sauropelta]]''
+* ''[[Pendraig]]''&lt;ref&gt;{{cite journal | vauthors = Spiekman SN, Ezcurra MD, Butler RJ, Fraser NC, Maidment SC |year=2021 |title=''Pendraig milnerae'', a new small-sized coelophysoid theropod from the Late Triassic of Wales |journal=Royal Society Open Science |volume=8 |issue=10 |pages=Article ID 210915 |doi=10.1098/rsos.210915 |pmid=34754500 |pmc=8493203 |bibcode=2021RSOS....810915S |doi-access=free }}&lt;/ref&gt;
+* ''[[Penelopognathus]]''
+* ''[[Pentaceratops]]''
+* ''[[Petrobrasaurus]]''
+* ''[[Phaedrolosaurus]]''
+* ''[[Philovenator]]''
+* ''[[Phuwiangosaurus]]''
+[[File:Plateosaurus BW.jpg|thumb|Artist's restoration of ''[[Plateosaurus]]''.]]
+* ''[[Phuwiangvenator]]''
+* ''[[Phyllodon]]''
+* ''[[Piatnitzkysaurus]]''
+* ''[[Picrodon]]'' – possibly non-dinosaurian
+* ''[[Pilmatueia]]''
+* ''[[Pinacosaurus]]''
+* ''[[Pisanosaurus]]'' – possibly non-dinosaurian
+* ''[[Pitekunsaurus]]''
+* ''[[Piveteausaurus]]''
+* ''[[Planicoxa]]''
+* ''[[Plateosauravus]]'' 
+* ''[[Plateosaurus]]''
+* ''[[Platyceratops]]'' – possible junior synonym of ''[[Bagaceratops]]''
+* ''[[Platypelta]]''
+* ''[[Plesiohadros]]''
+* ''[[Pleurocoelus]]'' – possible junior synonym of ''[[Astrodon]]''
+* ''[[Pleuropeltus]]'' – junior synonym of ''[[Struthiosaurus]]''
+* ''[[Pneumatoarthrus]]'' – subsequently found to be a [[turtle]]
+* ''[[Pneumatoraptor]]''
+* ''[[Podokesaurus]]''
+* ''[[Poekilopleuron]]''
+* ''[[Polacanthoides]]'' – possible junior synonym of ''[[Hylaeosaurus]]'' or ''[[Polacanthus]]''
+* ''[[Polacanthus]]''
+* ''[[Polyodontosaurus]]''
+* ''[[Polyonax]]''
+* ''[[Ponerosteus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Poposaurus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+[[File:Prosaurolophus maximus2.JPG|thumb|''[[Prosaurolophus]]'' skull.]]
+* ''[[Portellsaurus]]''&lt;ref&gt;{{Cite journal|last1=Santos-Cubedo|first1=Andrés|last2=de Santisteban|first2=Carlos|last3=Poza|first3=Begoña|last4=Meseguer|first4=Sergi|date=2021-07-07|title=A new styracosternan hadrosauroid (Dinosauria: Ornithischia) from the Early Cretaceous of Portell, Spain|journal=PLOS ONE|volume=16|issue=7|pages=e0253599|doi=10.1371/journal.pone.0253599|issn=1932-6203|pmc=8262792|pmid=34232957|bibcode=2021PLoSO..1653599S|doi-access=free}}&lt;/ref&gt;
+*''[[Postosuchus]]'' – subsequently found to be a [[rauisuchia]]n
+* ''[[Powellvenator]]''
+* ''[[Pradhania]]''
+* ''[[Prenocephale]]''
+* ''[[Prenoceratops]]''
+* ''[[Priconodon]]''
+* ''[[Priodontognathus]]''
+* ''[[Proa valdearinnoensis|Proa]]''
+* ''[[Probactrosaurus]]''
+* ''[[Probrachylophosaurus]]''
+* ''[[Proceratops]]'' – junior synonym (unneeded replacement name) of ''[[Ceratops]]''
+* ''[[Proceratosaurus]]''
+* ''[[Procerosaurus]]'' – subsequently found to be a [[Tanystropheidae|tanystropheid]] [[Protorosauria|protorosaur]], ''[[Tanystropheus]]''
+* "''[[Procerosaurus exogirarum|Procerosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Ponerosteus]]''
+* ''[[Procheneosaurus]]'' – junior synonym of ''[[Lambeosaurus]]''
+* ''[[Procompsognathus]]''
+* ''[[Prodeinodon]]'' 
+* "[[Proiguanodon]]" – ''nomen nudum''; ''[[Iguanodon]]''
+* ''[[Propanoplosaurus]]''
+* ''[[Proplanicoxa]]'' – junior synonym of ''[[Mantellisaurus]]''
+* ''[[Prosaurolophus]]''
+* ''[[Protarchaeopteryx]]''
+* ''[[Protecovasaurus]]'' – subsequently found to be a non-dinosaurian [[archosauriform]]
+* ''[[Protiguanodon]]'' – junior synonym of ''[[Psittacosaurus]]''
+* ''[[Protoavis]]'' – described as a bird, probably a [[chimera (paleontology)|chimera]] including [[theropoda|theropod]] dinosaur bones
+* ''[[Protoceratops]]''
+* ''[[Protognathosaurus]]''
+* "''[[Protognathus oxyodon|Protognathus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Protognathosaurus]]''
+* ''[[Protohadros]]''
+* "''[[Protorosaurus belli|Protorosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Chasmosaurus]]''
+* ''[[Protorosaurus]]'' – subsequently found to be a non-dinosaurian [[reptile]]
+* "[[Protrachodon]]" – ''nomen nudum''; ''[[Orthomerus]]''
+* "[[Proyandusaurus]]" – ''nomen nudum''; ''[[Hexinlusaurus]]''.
+* ''[[Pseudolagosuchus]]'' – possibly non-dinosaurian; a junior synonym of ''[[Lewisuchus]]''
+* ''[[Psittacosaurus]]''
+* ''[[Pteropelyx]]''
+* ''[[Pterospondylus]]''
+* ''[[Puertasaurus]]''
+* ''[[Pukyongosaurus]]''
+* ''[[Pulanesaura]]''
+* ''[[Punatitan]]''
+* ''[[Pycnonemosaurus]]''
+* ''[[Pyroraptor]]''
+
+==Q==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Qantassaurus]]''
+[[File:Qiupalong Restoration.png|thumb|Artist's reconstruction of ''[[Qiupalong]]''.]]
+* ''[[Qianzhousaurus]]''
+* ''[[Qiaowanlong]]''
+* ''[[Qijianglong]]''
+* ''[[Qingxiusaurus]]''
+* ''[[Qinlingosaurus]]''
+* ''[[Qiupalong]]''
+* ''[[Qiupanykus]]''
+* ''[[Quaesitosaurus]]''
+* ''[[Quetecsaurus]]''
+* ''[[Quilmesaurus]]''
+
+==R==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Rachitrema]]'' – subsequently found to be a [[chimera (paleontology)|chimera]] primarily based on [[ichthyosaur]] fossils
+* ''[[Rahiolisaurus]]''
+* "''[[Rahona ostromi|Rahona]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Rahonavis]]''
+* ''[[Rahonavis]]'' – possibly a [[bird]]
+* ''[[Rajasaurus]]''
+* ''[[Rapator]]''
+* ''[[Rapetosaurus]]''
+* ''[[Raptorex]]'' – possible junior synonym of ''[[Tarbosaurus]]''
+* ''[[Ratchasimasaurus]]''
+* ''[[Rativates]]''
+* ''[[Rayososaurus]]''
+* ''[[Razanandrongobe]]'' – subsequently found to be a [[crocodylomorph]]
+* ''[[Rebbachisaurus]]''
+* ''[[Regaliceratops]]''
+* ''[[Regnosaurus]]''
+* ''[[Revueltosaurus]]'' – subsequently found to be a [[pseudosuchia]]n
+* ''[[Rhabdodon]]''
+* ''[[Rhadinosaurus]]'' – may be non-dinosaurian, possibly [[crocodilia]]n
+* ''[[Rhinorex]]'' – possible synonym of ''[[Gryposaurus]]''
+* ''[[Rhodanosaurus]]'' – junior synonym of ''[[Struthiosaurus]]''
+* ''[[Rhoetosaurus]]''
+* ''[[Rhomaleopakhus]]''&lt;ref&gt;{{cite journal| vauthors = Upchurch P, Mannion PD, Xu X, Barrett PM | title = Re-assessment of the Late Jurassic eusauropod dinosaur ''Hudiesaurus sinojapanorum'' Dong, 1997, from the Turpan Basin, China, and the evolution of hyper-robust antebrachia in sauropods |year=2021 |journal=Journal of Vertebrate Paleontology |volume=Online edition |pages=e1994414 |doi=10.1080/02724634.2021.1994414 | s2cid = 245164168 }}&lt;/ref&gt;
+* ''[[Rhopalodon]]'' – subsequently found to be a [[synapsid]]
+* ''[[Riabininohadros]]'' 
+* ''[[Richardoestesia]]''
+[[File:Rapetosaurus BW.jpg|thumb|Artist's restoration of ''[[Rapetosaurus]]''.]]
+* "''[[Rileya bristolensis|Rileya]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Rileyasuchus]]''
+* ''[[Rileyasuchus]]'' – subsequently found to be a [[phytosaur]]
+* ''[[Rinchenia]]''
+* ''[[Rinconsaurus]]''
+* ''[[Rioarribasaurus]]'' – junior synonym of ''[[Coelophysis]]''
+* "[[Riodevasaurus]]" – ''nomen nudum''; ''[[Turiasaurus]]''
+* ''[[Riojasaurus]]''
+* ''[[Riojasuchus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Riparovenator]]''&lt;ref name=Ceratosuchops /&gt;
+* ''[[Rocasaurus]]''
+* "[[Roccosaurus]]" – ''nomen nudum''; ''[[Melanorosaurus]]''
+* "[[List of informally named dinosaurs#Ronaldoraptor|Ronaldoraptor]]" – ''nomen nudum''
+*''[[Rubeosaurus]]'' – junior synonym of ''[[Styracosaurus]]''
+* ''[[Ruehleia]]''
+* ''[[Rugocaudia]]''
+* ''[[Rugops]]''
+* ''[[Rukwatitan]]''
+* ''[[Ruyangosaurus]]''
+
+==S==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Sacisaurus]]'' – possibly non-dinosaurian
+* ''[[Sahaliyania]]''
+* ''[[Saichania]]''
+* "[[Saldamosaurus]]" – ''nomen nudum''
+* "[[Salimosaurus]]" – ''nomen nudum'', synonym of ''[[Giraffatitan]]''
+* ''[[Saltasaurus]]''
+* ''[[Saltopus]]'' – possibly non-dinosaurian
+* "[[Saltriosaurus]]" – ''nomen nudum''
+* ''[[Saltriovenator]]''
+* "[[Sanchusaurus]]" – ''nomen nudum'', possible ''[[Gallimimus]]''
+* "[[Sangonghesaurus]]" – ''nomen nudum'', ''[[Tianchiasaurus]]''
+* ''[[Sanjuansaurus]]'' – possibly non-dinosaurian
+* ''[[Sanpasaurus]]''
+* ''[[Santanaraptor]]''
+* ''[[Sanxiasaurus]]''
+* ''[[Sarahsaurus]]''
+* ''[[Saraikimasoom]]'' – ''nomen manuscriptum''
+* ''[[Sarcolestes]]''
+* ''[[Sarcosaurus]]''
+* ''[[Sarmientosaurus]]''
+* ''[[Saturnalia (dinosaur)|Saturnalia]]''
+* "[[Sauraechinodon]]" – ''nomen nudum''; ''[[Echinodon]]''
+[[File:Scelidosaurus harrisonii.png|thumb|Artist's restoration of ''[[Scelidosaurus]]''.]]
+* "[[Sauraechmodon]]" – ''nomen nudum''; ''[[Echinodon]]''
+* "[[Saurechinodon]]" – ''nomen nudum''; ''[[Echinodon]]''
+* ''[[Saurolophus]]''
+* ''[[Sauroniops]]'' – possible synonym of ''[[Carcharodontosaurus]]''
+* ''[[Sauropelta]]''
+* ''[[Saurophaganax]]'' – possible junior synonym of ''[[Allosaurus]]''
+* "''[[Saurophagus maximus|Saurophagus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Saurophaganax]]''
+* ''[[Sauroplites]]''
+* ''[[Sauroposeidon]]''
+* ''[[Saurornithoides]]''
+* ''[[Saurornitholestes]]''
+* ''[[Savannasaurus]]''
+* ''[[Scansoriopteryx]]'' – possibly a bird
+* ''[[Scaphonyx]]'' – subsequently found to be a [[rhynchosaur]], ''[[Hyperodapedon]]''
+* ''[[Scelidosaurus]]''
+* ''[[Schleitheimia]]''
+* ''[[Scipionyx]]''
+* ''[[Sciurumimus]]''
+* ''[[Scleromochlus]]'' – subsequently found to be a non-dinosaurian [[avemetatarsalia]]n
+* ''[[Scolosaurus]]''
+* ''[[Scutellosaurus]]''
+* ''[[Secernosaurus]]''
+* ''[[Sefapanosaurus]]''
+* ''[[Segisaurus]]''
+* ''[[Segnosaurus]]''
+* ''[[Seismosaurus]]'' – junior synonym of ''[[Diplodocus]]''
+* ''[[Seitaad]]''
+* ''[[Sektensaurus]]''
+* "[[Selimanosaurus]]" – ''nomen nudum''; ''[[Dicraeosaurus]]''
+* ''[[Sellacoxa]]'' – junior synonym of ''[[Barilium]]''
+* ''[[Sellosaurus]]'' – junior synonym of ''[[Plateosaurus]]''
+* ''[[Serendipaceratops]]''
+* ''[[Serikornis]]'' – possibly a bird
+* ''[[Shamosaurus]]''
+[[File:Holotype of Sinocalliopteryx gigas.png|thumb|[[Fossil]] of ''[[Sinocalliopteryx]]'' with [[Feather|feathers]] preserved.]]
+* ''[[Shanag]]''
+* ''[[Shanshanosaurus]]'' – junior synonym of ''[[Tarbosaurus]]''
+* ''[[Shantungosaurus]]''
+* ''[[Shanxia]]''
+* ''[[Shanyangosaurus]]''
+* ''[[Shaochilong]]''
+* ''[[Shenzhousaurus]]''
+* ''[[Shidaisaurus]]''
+* ''[[Shingopana]]''
+* ''[[Shishugounykus]]''
+* ''[[Shixinggia]]''
+* ''[[Shri devi|Shri]]''
+* ''[[Shuangbaisaurus]]'' – possible synonym of ''[[Sinosaurus]]''
+* ''[[Shuangmiaosaurus]]''
+* ''[[Shunosaurus]]''
+* ''[[Shuvosaurus]]'' – subsequently found to be a [[rauisuchia]]n
+* ''[[Shuvuuia]]''
+* ''[[Siamodon]]''
+* "[[Siamodracon]]" – ''nomen nudum''
+* ''[[Siamosaurus]]''
+* ''[[Siamotyrannus]]''
+* ''[[Siamraptor]]''
+* ''[[Siats (dinosaur)|Siats]]''
+* "[[Sibirosaurus]]" – ''nomen nudum'', now known as ''[[Sibirotitan]]''
+* ''[[Sibirotitan]]''
+* "[[Sidormimus]]" – ''nomen nudum''
+*''[[Sierraceratops]]''&lt;ref&gt;{{Cite journal|last1=Dalman |first1=S.G. |last2=Lucas |first2=S.G. |last3=Jasinski |first3=S.E. |last4=Longrich |first4=N.R. |title=''Sierraceratops turneri'', a new chasmosaurine ceratopsid from the Hall Lake Formation (Upper Cretaceous) of south-central New Mexico |journal=Cretaceous Research|year=2022|volume=130|pages=Article 105034|doi=10.1016/j.cretres.2021.105034|s2cid=244210664 }}&lt;/ref&gt;
+* ''[[Sigilmassasaurus]]'' – possible junior synonym of ''[[Spinosaurus]]''
+* ''[[Silesaurus]]'' – possibly non-dinosaurian
+* ''[[Siluosaurus]]''
+* ''[[Silutitan]]''&lt;ref name=Hamititan /&gt;
+* ''[[Silvisaurus]]''
+* ''[[Similicaudipteryx]]''
+* ''[[Sinankylosaurus]]''
+* ''[[Sinocalliopteryx]]''
+* ''[[Sinocephale]]''&lt;ref&gt;{{cite journal | url=https://cdnsciencepub.com/doi/full/10.1139/cjes-2020-0190 | title=Description and revised diagnosis of Asia's first recorded pachycephalosaurid, Sinocephale bexelli gen. nov., from the Upper Cretaceous of Inner Mongolia, China | last1=Evans | first1=David | last2=Brown | first2=Caleb M. | last3=You | first3=Hailu | last4=Campione | first4=Nicolás E. | journal=Canadian Journal of Earth Sciences | year=2021 | volume=e-First | issue=10 | pages=981–992 | doi=10.1139/cjes-2020-0190| bibcode=2021CaJES..58..981E | s2cid=244227050 }}&lt;/ref&gt; 
+* ''[[Sinoceratops]]''
+* ''[[Sinocoelurus]]''
+* "[[Sinopelta]]" – ''nomen nudum''; synonym of ''[[Sinopeltosaurus]]''
+* "[[Sinopeltosaurus]]" – ''nomen nudum''
+* ''[[Sinopliosaurus]]'' – a pliosaur; one species, ''[["Sinopliosaurus" fusuiensis|"S." fusuiensis]]'', is actually a dinosaur that may be synonymous with ''[[Siamosaurus]]''
+* ''[[Sinornithoides]]''
+[[File:Skorpiovenator skull.jpg|thumb|''[[Skorpiovenator]]'' skull.]]
+* ''[[Sinornithomimus]]''
+* ''[[Sinornithosaurus]]''
+* ''[[Sinosauropteryx]]''
+* ''[[Sinosaurus]]''
+* ''[[Sinotyrannus]]''
+* ''[[Sinovenator]]''
+* ''[[Sinraptor]]''
+* ''[[Sinusonasus]]''
+* ''[[Sirindhorna]]''
+* ''[[Skorpiovenator]]''
+* "''[[Zanclodon|Smilodon]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Zanclodon]]''
+* ''[[Smitanosaurus]]''
+* ''[[Sonidosaurus]]''
+* ''[[Sonorasaurus]]''
+* ''[[Soriatitan]]''
+* ''[[Soumyasaurus]]'' – possibly non-dinosaurian
+* ''[[Spectrovenator]]''
+* ''[[Sphaerotholus]]''
+* ''[[Sphenosaurus]]'' – subsequently found to be a non-dinosaurian [[reptile]]
+* ''[[Sphenospondylus]]'' – junior synonym of ''[[Mantellisaurus]]''
+* ''[[Spiclypeus]]''
+* ''[[Spicomellus]]''&lt;ref&gt;{{Cite journal|last1=Maidment|first1=Susannah C. R.|last2=Strachan|first2=Sarah J.|last3=Ouarhache|first3=Driss|last4=Scheyer|first4=Torsten M.|last5=Brown|first5=Emily E.|last6=Fernandez|first6=Vincent|last7=Johanson|first7=Zerina|last8=Raven|first8=Thomas J.|last9=Barrett|first9=Paul M.|date=2021-09-23|title=Bizarre dermal armour suggests the first African ankylosaur|url=https://www.nature.com/articles/s41559-021-01553-6|journal=Nature Ecology &amp; Evolution|volume=5|issue=12|language=en|pages=1576–1581|doi=10.1038/s41559-021-01553-6|pmid=34556830|s2cid=237616095|issn=2397-334X}}&lt;/ref&gt;
+* ''[[Spinophorosaurus]]''
+* ''[[Spinops]]''
+* ''[[Spinosaurus]]''
+* ''[[Spinostropheus]]''
+* ''[[Spinosuchus]]'' – subsequently found to be a non-dinosaurian [[reptile]]
+* ''[[Spondylosoma]]'' – subsequently found to be an [[aphanosaur]]
+* ''[[Squalodon]]'' – subsequently found to be a [[cetacea]]n
+* ''[[Staurikosaurus]]''
+* ''[[Stegoceras]]''
+* ''[[Stegopelta]]''
+* ''[[Stegosaurides]]''
+* ''[[Stegosaurus]]''
+* ''[[Stegouros]]''&lt;ref&gt;{{cite journal|last1=Soto-Acuña|first1=Sergio|last2=Vargas|first2=Alexander|last3=Kaluza|first3=Jonatan|last4=Leppe|first4=Marcelo|last5=Botelho|first5=Joao|last6=Palma-Liberona|first6=José|last7=Gutstein|first7=Carolina|last8=Fernández|first8=Roy|last9=Ortiz|first9=Hector|last10=Milla|first10=Verónica|last11=Aravena|first11=Bárbara|last12=Manríquez|first12=Leslie M. E.|last13=Alarcón-Muñoz|first13=Jhonatan|last14=Pino|first14=Juan Pablo|last15=Trevisan|first15=Cristine|last16=Mansilla|first16=Héctor|last17=Hinojosa|first17=Luis Felipe|last18=Muñoz-Walther|first18=Vicente|last19=Rubilar-Rogers|first19=David|year=2021|title=Bizarre tail weaponry in a transitional ankylosaur from subantarctic Chile|url=https://www.researchsquare.com/article/rs-821192/v1|journal=Nature|volume=600|issue=7888|pages=259–263|doi=10.1038/s41586-021-04147-1|pmid=34853468|bibcode=2021Natur.600..259S|s2cid=244799975}}&lt;/ref&gt;
+* ''[[Stellasaurus]]''
+* ''[[Stenonychosaurus]]''
+[[File:Stegosaurus stenops sophie wiki martyniuk.png|thumb|Artist's restoration of ''[[Stegosaurus]]''.]]
+* ''[[Stenopelix]]''
+* ''[[Stenotholus]]'' – junior synonym of ''[[Stygimoloch]]'', which is a possible junior synonym of ''[[Pachycephalosaurus]]''
+* ''[[Stephanosaurus]]''
+* "''[[Stereocephalus tutus|Stereocephalus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Euoplocephalus]]''
+* ''[[Sterrholophus]]'' – junior synonym of ''[[Triceratops]]''
+* ''[[Stokesosaurus]]''
+* ''[[Stormbergia]]'' – junior synonym of ''[[Lesothosaurus]]''
+* ''[[Strenusaurus]]'' – junior synonym of ''[[Riojasaurus]]''
+* ''[[Streptospondylus]]''
+* ''[[Struthiomimus]]''
+* ''[[Struthiosaurus]]''
+* ''[[Stygimoloch]]'' – junior synonym of ''[[Pachycephalosaurus]]''
+* ''[[Stygivenator]]'' – junior synonym of ''[[Tyrannosaurus]]''
+* ''[[Styracosaurus]]''
+* ''[[Succinodon]]'' – subsequently found to be [[fossil]]ized [[mollusc]] borings
+* ''[[Suchomimus]]''
+* ''[[Suchoprion]]'' – subsequently found to be a [[phytosaur]]
+* ''[[Suchosaurus]]'' – possible synonym of ''[[Baryonyx]]''
+* "[[Sugiyamasaurus]]" – ''nomen nudum''
+* "[[Sulaimanisaurus]]" – ''nomen nudum''
+* ''[[Supersaurus]]''
+* ''[[Suskityrannus]]''
+* ''[[Suuwassea]]''
+* ''[[Suzhousaurus]]''
+* ''[[Symphyrophus]]'' – junior synonym of ''[[Camptosaurus]]''
+* ''[[Syngonosaurus]]'' 
+* "''[[Coelophysis? kayentakatae|Syntarsus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, sometimes assigned to ''[[Coelophysis]]'' or ''[[Megapnosaurus]]''
+* ''[[Syrmosaurus]]'' – junior synonym of ''[[Pinacosaurus]]''
+* ''[[Szechuanosaurus]]''
+
+==T==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Tachiraptor]]''
+[[File:Thecondontosaurus life restoration 2018.jpg|thumb|Artist's restoration of ''[[Thecodontosaurus]]''.]]
+* ''[[Talarurus]]''
+* ''[[Talenkauen]]''
+* ''[[Talos (dinosaur)|Talos]]''
+* ''[[Tamarro]]''
+* ''[[Tambatitanis]]''
+* ''[[Tangvayosaurus]]''
+* ''[[Tanius]]''
+* ''[[Tanycolagreus]]''
+* ''[[Tanystropheus]]'' – subsequently found to be a [[protorosaur]]
+* ''[[Tanystrosuchus]]''
+* ''[[Taohelong]]''
+* ''[[Tapinocephalus]]'' – subsequently found to be a [[therapsid]]
+* ''[[Tapuiasaurus]]''
+* ''[[Tarascosaurus]]''
+* ''[[Tarbosaurus]]''
+* ''[[Tarchia]]''
+* ''[[Tastavinsaurus]]''
+* ''[[Tatankacephalus]]''
+* ''[[Tatankaceratops]]'' – probable junior synonym of ''[[Triceratops]]''
+* ''[[Tataouinea]]''
+* ''[[Tatisaurus]]''
+* ''[[Taurovenator]]'' – possible synonym of ''[[Mapusaurus]]''
+* ''[[Taveirosaurus]]''
+* ''[[Tawa (dinosaur)|Tawa]]'' – possibly non-dinosaurian
+* ''[[Tawasaurus]]'' – junior synonym of ''[[Lufengosaurus]]''
+* ''[[Tazoudasaurus]]''
+* ''[[Technosaurus]]'' – possibly non-dinosaurian
+* ''[[Tecovasaurus]]'' – subsequently found to be a non-dinosaurian [[archosauriform]]
+* ''[[Tehuelchesaurus]]''
+* "[[Teihivenator]]" – ''nomen nudum''
+* ''[[Teinurosaurus]]''
+* ''[[Teleocrater]]'' – subsequently found to be a basal [[avemetatarsalian]]
+[[File:Coast watch (1979) (20472080340).jpg|thumb|''[[Thescelosaurus]]'' fossil.]]
+* ''[[Telmatosaurus]]''
+* "[[Tenantosaurus]]" – ''nomen nudum''; ''[[Tenontosaurus]]''
+* "[[Tenchisaurus]]" – ''nomen nudum'';  an unpublished museum name for ''[[Tianchisaurus]]''
+* ''[[Tendaguria]]''
+* ''[[Tengrisaurus]]''
+* ''[[Tenontosaurus]]''
+* ''[[Teratophoneus]]''
+* ''[[Teratosaurus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Termatosaurus]]'' – subsequently found to be a [[phytosaur]]
+* ''[[Terminocavus]]''
+* ''[[Tethyshadros]]''
+* ''[[Tetragonosaurus]]'' – junior synonym of ''[[Lambeosaurus]]''
+* ''[[Texacephale]]''
+* ''[[Texasetes]]''
+* ''[[Teyuwasu]]'' – possibly junior synonym of ''[[Staurikosaurus]]''
+* ''[[Thanatotheristes]]'' 
+* ''[[Thanos simonattoi|Thanos]]''
+* ''[[Thecocoelurus]]''
+* ''[[Thecodontosaurus]]''
+* ''[[Thecospondylus]]''
+* ''[[Theiophytalia]]''
+* ''[[Therizinosaurus]]''
+* ''[[Therosaurus]]'' – a synonym of ''[[Iguanodon]]''
+* ''[[Thescelosaurus]]''
+* ''[[Thespesius]]''
+* "[[Thotobolosaurus]]" – ''nomen nudum''; ''[[Kholumolumo]]''
+* ''[[Tianchiasaurus]]''
+* ''[[Tianchisaurus]]'' – alternate spelling of ''[[Tianchiasaurus]]''
+* "[[Tianchungosaurus]]" – ''nomen nudum''; ''[[Dianchungosaurus]]'' ([[crocodilia]]n)
+* ''[[Tianyulong]]''
+* ''[[Tianyuraptor]]''
+* ''[[Tianzhenosaurus]]''
+* ''[[Tichosteus]]''
+* ''[[Tienshanosaurus]]''
+* ''[[Timimus]]''
+* ''[[Timurlengia]]''
+* ''[[Titanoceratops]]''
+* ''[[Titanosaurus]]''
+* "''[[Titanosaurus montanus|Titanosaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Atlantosaurus]]''
+* ''[[Tlatolophus]]''
+* ''[[Tochisaurus]]''
+* "''[[Tomodon horrificus|Tomodon]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Diplotomodon]]''
+[[File:Triceratops Specimen at the Houston Museum of Natural Science.JPG|thumb|Skeleton of ''[[Triceratops]]'' at the [[Houston Museum of Natural Science]].]]
+*''[[Tonganosaurus]]''
+* ''[[Tongtianlong]]''
+* "[[Tonouchisaurus]]" – ''nomen nudum''
+* ''[[Torilion]]'' – junior synonym of ''[[Barilium]]''
+* ''[[Tornieria]]''
+* ''[[Torosaurus]]''
+* ''[[Torvosaurus]]''
+* ''[[Tototlmimus]]''
+* ''[[Trachodon]]'' 
+* ''[[Tralkasaurus]]''
+* ''[[Tratayenia]]''
+* ''[[Traukutitan]]''
+* ''[[Trialestes]]'' – subsequently found to be a basal [[crocodylomorph]]
+* "''[[Triassolestes]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Trialestes]]''
+* ''[[Tribelesodon]]'' – junior synonym of ''[[Tanystropheus]]'', a [[protorosaur]]
+* ''[[Triceratops]]''
+* ''[[Trierarchuncus]]''
+* ''[[Trigonosaurus]]''
+* ''[[Trimucrodon]]''
+* ''[[Trinisaura]]''
+* ''[[Triunfosaurus]]''
+* ''[[Troodon]]''
+* ''[[Tsaagan]]''
+* ''[[Tsagantegia]]''
+* ''[[Tsintaosaurus]]''
+* ''[[Tugulusaurus]]''
+* ''[[Tuojiangosaurus]]''
+* ''[[Turanoceratops]]''
+* ''[[Turiasaurus]]''
+* ''[[Tylocephale]]''
+* ''[[Tylosteus]]'' – synonym of ''[[Pachycephalosaurus]]''
+* ''[[Tyrannosaurus]]''
+* ''[[Tyrannotitan]]''
+
+==U==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+[[File:Udanoceratops skull.svg|thumb|Illustration of the skull of ''[[Udanoceratops]]''.]]
+* ''[[Uberabatitan]]''
+* "[[Ubirajara jubatus|Ubirajara]]" – ''nomen nudum''
+* ''[[Udanoceratops]]''
+* ''[[Ugrosaurus]]'' – junior synonym of ''[[Triceratops]]''
+* ''[[Ugrunaaluk]]'' – junior synonym of ''[[Edmontosaurus]]''
+* ''[[Uintasaurus]]'' – junior synonym of ''[[Camarasaurus]]''
+* ''[[Ultrasauros]]'' – junior synonym of ''[[Supersaurus]]''
+* "''[[Ultrasauros|Ultrasaurus]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, renamed ''[[Ultrasauros]]'' which is now a junior synonym of ''[[Supersaurus]]''
+* ''[[Ultrasaurus]]''
+* ''[[Ulughbegsaurus]]''&lt;ref&gt;{{cite journal | vauthors = Tanaka K, Anvarov OU, Zelenitsky DK, Ahmedshaev AS, Kobayashi Y | title = A new carcharodontosaurian theropod dinosaur occupies apex predator niche in the early Late Cretaceous of Uzbekistan | journal = Royal Society Open Science | volume = 8 | issue = 9 | pages = Article ID 210923 | year = 2021 | doi = 10.1098/rsos.210923 | pmid = 34527277 | pmc = 8424376 | bibcode = 2021RSOS....810923T | doi-access = free }}&lt;/ref&gt;
+* "[[Umarsaurus]]" – ''nomen nudum''; ''[[Barsboldia]]''
+* ''[[Unaysaurus]]''
+* ''[[Unenlagia]]''
+* ''[[Unescoceratops]]''
+* "[[Unicerosaurus]]" – ''nomen nudum'',  subsequently found to be a [[fish]]
+* ''[[Unquillosaurus]]''
+* ''[[Urbacodon]]''
+* ''[[Utahceratops]]''
+* ''[[Utahraptor]]''
+* ''[[Uteodon]]''
+
+==V==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Vagaceratops]]''
+* ''[[Vahiny]]''
+* ''[[Valdoraptor]]'' – possible synonym of ''[[Thecocoelurus]]''
+[[File:Velociraptor Restoration.png|thumb|Artist's restoration of ''[[Velociraptor]]''.]]
+* ''[[Valdosaurus]]''
+* ''[[Vallibonavenatrix]]''
+* ''[[Variraptor]]''
+* ''[[Vayuraptor]]''
+* ''[[Vectaerovenator]]''
+* ''[[Vectensia]]'' – junior synonym of ''[[Polacanthus]]'' or ''[[Hylaeosaurus]]''
+* ''[[Vectiraptor]]''&lt;ref&gt;{{Cite journal|last1=Longrich|first1=Nicholas R.|last2=Martill|first2=David M.|last3=Jacobs|first3=Megan L.|date=2021-12-17|title=A new dromaeosaurid dinosaur from the Wessex Formation (Lower Cretaceous, Barremian) of the Isle of Wight, and implications for European palaeobiogeography|url=https://www.sciencedirect.com/science/article/pii/S0195667121003712|journal=Cretaceous Research|language=en|pages=105123|doi=10.1016/j.cretres.2021.105123|s2cid=245324247|issn=0195-6671}}&lt;/ref&gt;
+* ''[[Vectisaurus]]'' – junior synonym of ''[[Mantellisaurus]]''
+* ''[[Velafrons]]''
+* ''[[Velocipes]]''
+* ''[[Velociraptor]]''
+* ''[[Velocisaurus]]''
+* ''[[Venaticosuchus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Venenosaurus]]''
+* ''[[Vespersaurus]]''
+* ''[[Veterupristisaurus]]''
+* ''[[Viavenator]]''
+* "[[Vitakridrinda]]" – ''nomen nudum''
+* "[[Vitakrisaurus]]" – ''nomen nudum''
+* ''[[Volgatitan]]''
+* ''[[Volkheimeria]]''
+* ''[[Vouivria]]''
+* ''[[Vulcanodon]]''
+
+==W==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Wadhurstia]]'' – junior synonym of ''[[Hypselospinus]]''
+* ''[[Wakinosaurus]]''
+* ''[[Walgettosuchus]]'' – possible synonym of ''[[Rapator]]''
+* "''[[Walkeria maleriensis|Walkeria]]''" – [[International Code of Zoological Nomenclature|preoccupied]] name, now known as ''[[Alwalkeria]]'' 
+* "[[Walkersaurus]]" – ''nomen nudum''; ''[[Duriavenator]]''
+* ''[[Wamweracaudia]]''
+* "[[Wangonisaurus]]" – ''nomen nudum'', synonym of ''[[Giraffatitan]]''
+* ''[[Wannanosaurus]]''
+* ''[[Weewarrasaurus]]''
+[[File:Новая реконструкция Монстра из Миндена.jpg|thumb|Artist's restoration of ''[[Wiehenvenator]]''.]]
+* ''[[Wellnhoferia]]'' – subsequently found to be a bird, possible junior synonym of ''[[Archaeopteryx]]''
+* ''[[Wendiceratops]]''
+* ''[[Wiehenvenator]]''
+* ''[[Willinakaqe]]''
+*''[[Wintonotitan]]''
+* ''[[Wuerhosaurus]]''
+* ''[[Wulagasaurus]]''
+* ''[[Wulatelong]]''
+* ''[[Wulong bohaiensis|Wulong]]''
+* ''[[Wyleyia]]'' – possibly a bird
+* "[[Wyomingraptor]]" – ''nomen nudum'', synonym of ''[[Allosaurus]]''
+
+==X==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Xenoceratops]]''
+* ''[[Xenoposeidon]]''
+* ''[[Xenotarsosaurus]]''
+* ''[[Xianshanosaurus]]''
+* ''[[Xiaosaurus]]''
+[[File:Xiongguanlong NT.jpg|thumb|Artist's reconstruction of ''[[Xiongguanlong]]''.]]
+* ''[[Xiaotingia]]'' – possibly a bird
+* ''[[Xingtianosaurus]]''
+* ''[[Xingxiulong]]''
+* ''[[Xinjiangovenator]]''
+* ''[[Xinjiangtitan]]''
+* ''[[Xiongguanlong]]''
+* ''[[Xixianykus]]''
+* ''[[Xixiasaurus]]''
+* ''[[Xixiposaurus]]''
+* ''[[Xiyunykus]]''
+* ''[[Xuanhanosaurus]]''
+* ''[[Xuanhuaceratops]]''
+* "[[Xuanhuasaurus]]" – ''nomen nudum''; ''[[Xuanhuaceratops]]''
+* ''[[Xunmenglong]]''
+* ''[[Xuwulong]]''
+
+==Y==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Yaleosaurus]]'' – junior synonym of ''[[Anchisaurus]]''
+* ''[[Yamaceratops]]''
+* ''[[Yamanasaurus]]''
+* ''[[Yamatosaurus]]''
+* ''[[Yandangornis]]''&lt;ref&gt;Zhou, Zhonghe, Zhang, Fucheng. (2007) "Mesozoic birds of China––a synoptic review." "Frontiers of Biology in China" 2(1):1-14&lt;/ref&gt; — possibly a [[bird]]
+* ''[[Yandusaurus]]''
+* ''[[Yangchuanosaurus]]''
+[[File:Yinlong BW.jpg|thumb|Artist's restoration of ''[[Yinlong]]''.]]
+* ''[[Yaverlandia]]''
+* ''[[Yehuecauhceratops]]''
+* "[[Yezosaurus]]" – ''nomen nudum''; subsequently found to be a junior synonym of the [[mosasaur]] ''[[Taniwhasaurus]]''
+* ''[[Yi (dinosaur)|Yi]]'' – possibly a bird
+* "[[Yibinosaurus]]" – ''nomen nudum''
+* ''[[Yimenosaurus]]''
+* ''[[Yingshanosaurus]]''
+* ''[[Yinlong]]''
+* ''[[Yixianosaurus]]'' – possibly a bird
+* ''[[Yizhousaurus]]'' 
+* ''[[Yongjinglong]]''
+* ''[[Ypupiara]]''&lt;ref&gt;Brum, Arthur Souza, Pêgas, Rodrigo Vargas, Bandeira, Kamila Luisa Nogueira, Souza, Lucy Gomes de, Campos, Diogenes de Almeida, &amp; Kellner, Alexander Wilhelm Armin. (2021). A new Unenlagiinae (Theropoda: Dromaeosauridae) from the Late Cretaceous of Brazil. https://doi.org/10.1002/spp2.1375&lt;/ref&gt;
+* "[[Yuanmouraptor]]" – ''nomen nudum''
+* ''[[Yuanmousaurus]]''
+* ''[[Yueosaurus]]''
+* ''[[Yulong mini|Yulong]]''
+* ''[[Yunganglong]]''
+* ''[[Yunmenglong]]''
+* ''[[Yunnanosaurus]]''
+* "[[Yunxianosaurus]]" – ''nomen nudum''
+* ''[[Yunyangosaurus]]''
+* ''[[Yurgovuchia]]''
+* ''[[Yutyrannus]]''
+*"[[Yuxisaurus]]" – in press
+
+==Z==
+{| id="toc" border="0"
+! {{MediaWiki:Toc}}:
+| [[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]] – [[#See also|See also]]__NOTOC__
+|}
+* ''[[Zalmoxes]]''
+* ''[[Zanabazar (dinosaur)|Zanabazar]]''
+* ''[[Zanclodon]]'' – subsequently found to be non-dinosaurian
+* ''[[Zapalasaurus]]''
+* ''[[Zapsalis]]''
+* ''[[Zaraapelta]]''
+* ''[[Zatomus]]'' – subsequently found to be a non-dinosaurian [[archosaur]]
+* ''[[Zby]]''
+* ''[[Zephyrosaurus]]''
+* ''[[Zhanghenglong]]''
+* ''[[Zhejiangosaurus]]''
+* ''[[Zhenyuanlong]]''
+[[File:Zby NT small.jpg|thumb|Life restoration of ''[[Zby]]''.]]
+* ''[[Zhongjianosaurus]]''
+* ''[[Zhongornis]]'' – possibly a bird
+* ''[[Zhongyuansaurus]]''  – possible junior synonym of ''[[Gobisaurus]]''
+* ''[[Zhuchengceratops]]''
+* ''[[Zhuchengosaurus]]'' – junior synonym of ''[[Shantungosaurus]]''
+* ''[[Zhuchengtitan]]''
+* ''[[Zhuchengtyrannus]]''
+* ''[[Ziapelta]]''
+* ''[[Zigongosaurus]]'' 
+* ''[[Zizhongosaurus]]''
+* ''[[Zuniceratops]]''
+* "[[Zunityrannus]]" – ''nomen nudum'', ''[[Suskityrannus]]''
+* ''[[Zuolong]]''
+* ''[[Zuoyunlong]]''
+* ''[[Zupaysaurus]]''
+* ''[[Zuul]]''
+
+==See also==
+{{Portal|Dinosaurs}}
+{{Div col}}
+* [[Dinosaur classification]]
+* [[List of birds]]
+* [[List of bird genera]]
+* [[List of dinosaur ichnogenera]]
+* [[List of informally named dinosaurs]]
+* [[List of ichthyosaur genera]]
+* [[List of Mesozoic birds]]
+* [[List of mosasaur genera]]
+* [[List of pelycosaurs]]
+* [[List of plesiosaur genera]]
+* [[List of pterosaur genera]]
+* [[List of therapsids]]
+* [[List of South American dinosaurs]]
+* [[List of North American dinosaurs]]
+* [[List of African dinosaurs]]
+* [[List of Asian dinosaurs]]
+* [[List of European dinosaurs]]
+* [[List of Indian and Madagascan dinosaurs]]
+* [[List of Australian and Antarctic dinosaurs]]
+* [[List of commonly used taxonomic affixes]]
+{{Div col end}}
+
+== Notes ==
+* Most uncited genus names are taken from Olshevsky's "Dinosaur Genera List".&lt;ref name="Olshevsky" /&gt; Non-dinosaur [[dinosauromorphs]] and non-[[avebrevicauda]]n avialans are also listed by Olshevsky, but are omitted from this list as they are not considered "non-avian dinosaurs" in most published sources.
+
+{{Reflist|30em}}
+
+== References ==
+* Lambert, D. (1993). "A to Z of Dinosaurs" In: ''The Ultimate Dinosaur Book''. Dorling Kindersley, 192 pp.&amp;nbsp;{{ISBN|0-7513-0047-0}}
+* Olshevsky, G. (1995–2021). [http://www.polychora.com/dinolist.html Dinosaur Genera List]. Retrieved July 30, 2013.
+* Walters, M. &amp; J. Paker (1995). ''Dictionary of Prehistoric Life''. Claremont Books. {{ISBN|1-85471-648-4}}.
+* Weishampel, D.B., P. Dodson &amp; H. Osmólska (eds.) (2004). ''The Dinosauria, Second Edition''. University of California Press, 861 pp.&amp;nbsp;{{ISBN|0-520-24209-2}}.
+{{Authority control}}
+{{Featured list}}
+
+{{DEFAULTSORT:List Of Dinosaurs}}
+[[Category:Lists of prehistoric reptiles|Dinosaurs]]
+[[Category:Dinosaur-related lists|*]]
+[[Category:Lists of prehistoric animal genera (alphabetic)|Dinosaurs]]</text>
+      <sha1>jqnphy9burjao152t98j4ayok12y9ke</sha1>
+    </revision>
+  </page>
+</mediawiki>
