@@ -1,4 +1,5 @@
 ﻿using DinoAPI.Models;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace DinoAPI
 {
@@ -1634,16 +1635,31 @@ namespace DinoAPI
                 "Zuul"
             };
 
-            endpoints.MapGet("/dinosaurs/{filter:alpha}", (string filter) =>
+            endpoints.MapGet("/dinosaurs/{filter:alpha}", (string filter, IMemoryCache cache) =>
             {
-                IEnumerable<Dinosaur> dinosaurs = dinosaurs_genera
+                IEnumerable<Dinosaur> dinosaurs;
+
+                bool in_cache = cache.TryGetValue(filter, out dinosaurs);
+
+                if (in_cache == true)
+                {
+                    return dinosaurs;
+                } 
+                else
+                {
+                    dinosaurs = dinosaurs_genera
                     .Where(dinosaur_genera => dinosaur_genera.ToLower().StartsWith(filter.ToLower()))
                     .Select(dinosaur_genera =>
-                   new Dinosaur
-                   (
-                       Genera: dinosaur_genera
-                   ));
-                return dinosaurs;
+                        new Dinosaur
+                        (
+                            Genera: dinosaur_genera
+                        )
+                    );
+
+                    cache.Set(filter, dinosaurs);
+
+                    return dinosaurs;
+                }
             })
             .WithName("GetDinosaurs");
 
