@@ -1,6 +1,4 @@
 ﻿namespace DinoAPI.Responses
 {
-    internal record GetDinosaursResponse(string Genera)
-    {
-    }
+    internal record GetDinosaursResponse(string Genera);
 }

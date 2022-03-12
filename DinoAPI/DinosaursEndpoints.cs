@@ -1,5 +1,4 @@
 ﻿using DinoAPI.Responses;
-using Microsoft.Extensions.Caching.Memory;
 
 namespace DinoAPI
 {
