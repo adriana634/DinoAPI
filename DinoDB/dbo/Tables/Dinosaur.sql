@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Dinosaur]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Genera] NVARCHAR(32) NOT NULL
+)
