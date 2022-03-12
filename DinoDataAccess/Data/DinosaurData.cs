@@ -13,11 +13,15 @@ public class DinosaurData
     }
 
     public Task<IEnumerable<DinosaurModel>> GetAllDinosaurs() =>
-        this._db.LoadData<DinosaurModel>(storedProcedure: "dbo.spDinosaur_GetAll");
+        this._db.QueryAsync<DinosaurModel>(storedProcedure: "dbo.spDinosaur_GetAll");
 
-    public Task<IEnumerable<DinosaurModel>> GetDinosaur(int id) =>
-        this._db.LoadData<DinosaurModel, dynamic>(storedProcedure: "dbo.spDinosaur_Get", new { Id = id });
+    public Task<DinosaurModel?> GetDinosaur(int id) =>
+        this._db.QuerySingleOrDefault<DinosaurModel?, dynamic>(
+            storedProcedure: "dbo.spDinosaur_Get",
+            new { Id = id });
 
     public Task<IEnumerable<DinosaurModel>> SearchDinosaurs(string criteria) =>
-        this._db.LoadData<DinosaurModel, dynamic>(storedProcedure: "dbo.spDinosaur_Search", new { Criteria = criteria });
+        this._db.QueryAsync<DinosaurModel, dynamic>(
+            storedProcedure: "dbo.spDinosaur_Search",
+            new { Criteria = criteria });
 }
