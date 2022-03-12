@@ -1,0 +1,23 @@
+﻿namespace DinoDataAccess.Data;
+
+using DinoDataAccess.DbAccess;
+using DinoDataAccess.Models;
+
+public class DinosaurData
+{
+    private readonly ISqlDataAccess _db;
+
+    public DinosaurData(ISqlDataAccess db)
+    {
+        this._db = db;
+    }
+
+    public Task<IEnumerable<DinosaurModel>> GetAllDinosaurs() =>
+        this._db.LoadData<DinosaurModel>(storedProcedure: "dbo.spDinosaur_GetAll");
+
+    public Task<IEnumerable<DinosaurModel>> GetDinosaur(int id) =>
+        this._db.LoadData<DinosaurModel, dynamic>(storedProcedure: "dbo.spDinosaur_Get", new { Id = id });
+
+    public Task<IEnumerable<DinosaurModel>> SearchDinosaurs(string criteria) =>
+        this._db.LoadData<DinosaurModel, dynamic>(storedProcedure: "dbo.spDinosaur_Search", new { Criteria = criteria });
+}

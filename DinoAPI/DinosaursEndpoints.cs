@@ -1,6 +1,6 @@
-﻿namespace DinoAPI;
+﻿using DinoAPI.Responses;
 
-using DinoAPI.Responses;
+namespace DinoAPI;
 
 internal static class DinosaursEndpoints
 {
