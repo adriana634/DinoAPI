@@ -1,4 +1,5 @@
 using DinoAPI;
+using DinoDataAccess.DbAccess;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options =>
     options.AddDefaultPolicy(policy => 
         policy.AllowAnyOrigin()));
+builder.Services.AddSingleton<ISqlDataAccess, SqlDataAccess>();
+builder.Services.AddSingleton<IDinosaurData, DinosaurData>();
 
 WebApplication app = builder.Build();
 
@@ -21,7 +24,6 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseCors();
 
-app.UseRouting();
-app.UseEndpoints(endpoints => endpoints.AddDinosaursEndpoints());
+app.ConfigureDinoEndpoints();
 
 app.Run();

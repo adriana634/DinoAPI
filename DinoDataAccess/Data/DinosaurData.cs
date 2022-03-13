@@ -3,7 +3,7 @@
 using DinoDataAccess.DbAccess;
 using DinoDataAccess.Models;
 
-public class DinosaurData
+public class DinosaurData : IDinosaurData
 {
     private readonly ISqlDataAccess _db;
 
