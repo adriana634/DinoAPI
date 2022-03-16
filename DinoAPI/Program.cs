@@ -27,3 +27,5 @@ app.UseCors();
 app.ConfigureDinoEndpoints();
 
 app.Run();
+
+public partial class Program { }
