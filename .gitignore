@@ -362,3 +362,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Visual Studio Connected Services configuration
+compute.appService1.arm.json
+mssql1.arm.json
+serviceDependencies.json
+serviceDependencies.local.json
